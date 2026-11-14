@@ -1,0 +1,1001 @@
+﻿ClienteID,NombreCliente,EstadoCivil,EstatusEmpleo,IngresoMensualDeclarado,FechaAlta,CanalAlta,Estados_equivalencia.Estado correcto,FechaNacimiento,Observacion_Ingreso,Edad_Alta
+C0114,Regina Hernández Vargas,Unión libre,Estudiante,,2024-11-11,Sucursal,Yucatán,2002-10-13,Ingreso no declarado,22
+C0243,Javier Aguilar Jiménez,Soltero,Asalariado,30500,2023-06-16,App,Yucatán,1983-10-23,Ok,40
+C0657,Emiliano Vázquez Flores,Casado,Asalariado,6700,2014-09-12,Sucursal,Yucatán,1987-07-28,Ok,27
+C0779,Verónica Medina Castro,Divorciado,Independiente,10200,2012-05-11,Sucursal,Yucatán,1982-05-31,Ok,30
+C0910,Roberto Jiménez Moreno,Soltero,Independiente,24400,2025-06-29,App,Yucatán,2000-06-11,Ok,25
+C0558,Lucía Ortiz Díaz,Casado,Asalariado,13500,2025-03-26,App,Yucatán,1991-05-28,Ok,34
+C0794,Francisco González Díaz,Soltero,Hogar,3500,2025-10-29,App,Ciudad de México,1977-04-26,Ok,49
+C0597,Daniela Sánchez Flores,Casado,Asalariado,18200,2022-05-10,Sucursal,Ciudad de México,1981-03-23,Ok,41
+C0741,Fernando Rodríguez González,Divorciado,Jubilado,14100,2022-05-01,Sucursal,Estado de México,1961-05-13,Ok,61
+C0432,Daniela Reyes Reyes,Casado,Independiente,12300,2025-07-11,Sucursal,Nuevo León,1999-09-23,Ok,26
+C0271,Roberto Méndez Romero,Divorciado,Jubilado,10300,2024-12-05,Sucursal,Nuevo León,1951-06-29,Ok,73
+C0700,Javier Aguilar Ramos,Divorciado,Asalariado,15800,2012-01-29,Sucursal,Nuevo León,1984-06-25,Ok,28
+C0494,Emiliano Rivera Ramos,Casado,Asalariado,14300,2017-05-20,Sucursal,Nuevo León,1973-04-13,Ok,44
+C0782,Patricia Méndez Sánchez,Unión libre,Independiente,40700,2019-10-19,Sucursal,Nuevo León,1981-09-21,Ok,38
+C0418,Mateo Reyes Castro,Soltero,Asalariado,22100,2020-08-30,Sucursal,Quintana Roo,1982-02-04,Ok,39
+C0409,Monserrat Gómez Ramos,Casado,Hogar,8100,2023-04-15,App,Quintana Roo,1991-06-07,Ok,32
+C0025,Mónica Hernández Rivera,Soltero,Independiente,21700,2025-11-25,Sucursal,Quintana Roo,1998-07-05,Ok,27
+C0873,Monserrat Hernández Hernández,Casado,Asalariado,18800,2022-11-01,Sucursal,Quintana Roo,1979-10-19,Ok,43
+C0483,Héctor Pérez Gómez,Soltero,Asalariado,10700,2021-12-04,App,Jalisco,1993-04-27,Ok,29
+C0479,Diana Castillo Castro,Soltero,Asalariado,16100,2017-12-10,Sucursal,Jalisco,1984-10-05,Ok,33
+C0979,Daniel Jiménez Herrera,Soltero,Asalariado,16400,2025-01-07,App,Jalisco,1985-10-14,Ok,39
+C0862,Karla Guzmán Díaz,Casado,Independiente,63600,2022-11-21,App,Guanajuato,1980-08-27,Ok,42
+C0582,Juan Sánchez Rivera,Casado,Jubilado,13100,2023-03-16,App,Puebla,1960-12-10,Ok,62
+C0653,Mónica Méndez Méndez,Casado,Jubilado,20000,2024-12-31,App,Yucatán,1961-08-02,Ok,63
+C0010,Fernanda Méndez Domínguez,Divorciado,Asalariado,30300,2023-04-29,App,Querétaro,1987-12-12,Ok,35
+C0545,Antonio Ortiz Reyes,Unión libre,Independiente,12000,2023-09-29,App,Nuevo León,2000-08-04,Ok,23
+C0849,Luis Velázquez Sánchez,Unión libre,Asalariado,18000,2024-02-28,App,Jalisco,1984-04-29,Ok,40
+C0026,Daniela Ortiz Guzmán,Viudo,Jubilado,16700,2025-01-09,Sucursal,Ciudad de México,1948-08-24,Ok,76
+C0870,Laura Moreno Gómez,Casado,Asalariado,23400,2024-01-13,App,Estado de México,1981-12-05,Ok,42
+C0320,Luis Mendoza Sánchez,Divorciado,Asalariado,32000,2025-01-02,App,Querétaro,1993-01-11,Ok,32
+C0918,Monserrat Ramos Hernández,Soltero,Asalariado,22100,2025-01-18,App,Querétaro,1989-06-23,Ok,36
+C0421,Leticia Ramos Torres,Soltero,Hogar,6000,2017-05-11,Sucursal,Puebla,1997-04-18,Ok,20
+C0832,Elena Domínguez Herrera,Casado,Jubilado,21500,2025-07-03,Sucursal,Ciudad de México,1953-02-07,Ok,72
+C0981,Emiliano Sánchez Jiménez,Casado,Independiente,23000,2023-07-13,App,Nuevo León,1988-11-12,Ok,35
+C0147,Paola Reyes Chávez,Casado,Asalariado,29200,2018-01-22,Sucursal,Puebla,1974-09-27,Ok,43
+C0563,Rodrigo Reyes Jiménez,Soltero,Estudiante,4200,2017-03-27,Sucursal,Puebla,1991-06-03,Ok,26
+C0061,Brenda Ruiz Medina,Casado,Asalariado,15300,2013-11-15,Sucursal,Querétaro,1984-09-29,Ok,29
+C0886,Mateo López Chávez,Soltero,Asalariado,18500,2024-05-25,App,Estado de México,1979-10-03,Ok,45
+C0709,Emiliano Morales Ramos,Casado,Asalariado,9400,2024-03-04,Sucursal,Querétaro,1974-05-25,Ok,50
+C0821,Arturo Guzmán Hernández,Divorciado,Asalariado,52700,2023-08-30,App,Jalisco,1992-11-21,Ok,31
+C0014,Fernanda Guzmán Ortiz,Casado,Hogar,9300,2021-01-10,Sucursal,Jalisco,1987-11-15,Ok,33
+C0911,Santiago Méndez González,Casado,Jubilado,17000,2015-04-23,Sucursal,Yucatán,1963-09-22,Ok,52
+C0501,Javier Castillo Gutiérrez,Soltero,Asalariado,15500,2022-09-20,App,Estado de México,2000-01-05,Ok,23
+C0361,Daniel Flores Moreno,Soltero,Jubilado,12500,2025-10-27,Sucursal,Estado de México,1958-06-27,Ok,67
+C0591,Javier Romero Aguilar,Soltero,Independiente,8600,2024-07-01,App,Querétaro,1995-02-24,Ok,29
+C0309,Camila Cruz Herrera,Unión libre,Asalariado,16800,2025-09-14,App,Ciudad de México,1988-04-23,Ok,37
+C0100,Arturo Castillo Mendoza,Soltero,Asalariado,12700,2016-08-21,Sucursal,Puebla,1991-04-27,Ok,25
+C0769,Fernanda Moreno Rodríguez,Casado,Asalariado,,2022-12-06,App,Yucatán,1995-09-21,Ingreso no declarado,27
+C0111,Paola Juárez Juárez,Casado,Asalariado,45200,2023-02-18,App,Querétaro,1977-10-04,Ok,45
+C0297,Héctor González Vázquez,Casado,Asalariado,21300,2013-08-25,Sucursal,Nuevo León,1981-09-07,Ok,32
+C0642,Alejandra Gutiérrez Guzmán,Casado,Hogar,,2017-06-06,Sucursal,Estado de México,1970-01-05,Ingreso no declarado,47
+C0619,José Hernández Vázquez,Soltero,Independiente,45000,2024-07-22,Sucursal,Guanajuato,1979-02-10,Ok,45
+C0869,Arturo Ramos Pérez,Casado,Asalariado,17500,2016-04-27,Sucursal,Ciudad de México,1983-05-11,Ok,33
+C0664,Patricia Domínguez Flores,Casado,Independiente,22500,2022-04-15,App,Quintana Roo,1987-06-19,Ok,35
+C0913,Francisco Méndez Torres,Casado,Asalariado,7600,2023-09-14,App,Jalisco,1994-07-08,Ok,29
+C0095,Santiago Gutiérrez Castro,Viudo,Jubilado,17200,2022-12-05,App,Estado de México,1960-10-08,Ok,62
+C0729,Valeria Rojas Domínguez,Soltero,Independiente,7900,2023-05-25,Sucursal,Estado de México,1976-01-13,Ok,47
+C0438,Héctor Sánchez García,Casado,Asalariado,40400,2022-02-26,App,Yucatán,1986-08-08,Ok,36
+C0109,Rodrigo Medina Vázquez,Soltero,Estudiante,3500,2024-06-08,Sucursal,Ciudad de México,1996-07-06,Ok,28
+C0358,Juan Castro Cruz,Casado,Independiente,35600,2019-07-03,Sucursal,Quintana Roo,1983-03-19,Ok,36
+C0126,Adriana Medina Romero,Soltero,Independiente,20600,2016-08-19,Sucursal,Nuevo León,1991-01-04,Ok,26
+C0993,Emiliano Flores Herrera,Casado,Asalariado,8600,2025-05-23,App,Puebla,1969-02-21,Ok,56
+C0035,Carlos Álvarez Chávez,Soltero,Asalariado,23200,2012-09-24,Sucursal,Ciudad de México,1988-04-20,Ok,24
+C0054,Alejandro Aguilar Vargas,Casado,Asalariado,21700,2022-01-12,Sucursal,Estado de México,1980-08-19,Ok,41
+C0141,Carlos Castillo Morales,Soltero,Asalariado,24400,2012-01-01,Sucursal,Estado de México,1993-07-08,Ok,18
+C0875,Miguel Gutiérrez Pérez,Unión libre,Asalariado,16400,2024-05-19,App,Estado de México,1998-01-12,Ok,26
+C0541,Santiago Castillo Domínguez,Soltero,Asalariado,21000,2024-11-27,App,Estado de México,1982-07-24,Ok,42
+C0171,Alejandra Ortiz Moreno,Casado,Asalariado,11100,2023-08-28,App,Yucatán,1984-08-30,Ok,39
+C0935,Alejandra Domínguez Díaz,Soltero,Asalariado,12800,2023-09-10,App,Querétaro,1976-10-08,Ok,47
+C0943,Lucía Castillo Pérez,Viudo,Jubilado,22600,2021-01-18,Sucursal,Ciudad de México,1958-12-20,Ok,62
+C0939,Andrea Medina Juárez,Casado,Independiente,33400,2021-11-25,Sucursal,Nuevo León,1975-04-12,Ok,47
+C0468,Gerardo Aguilar Rivera,Soltero,Independiente,20300,2013-10-27,Sucursal,Estado de México,1977-06-08,Ok,36
+C0872,Diana Vázquez Álvarez,Casado,Asalariado,17400,2021-10-02,Sucursal,Estado de México,1995-01-28,Ok,27
+C0169,Valeria García Domínguez,Casado,Jubilado,4000,2017-04-04,Sucursal,Jalisco,1953-11-20,Ok,63
+C0598,Sofía Herrera Guzmán,Unión libre,Independiente,7400,2024-01-20,App,Puebla,1992-07-22,Ok,31
+C0488,Karla Domínguez Díaz,Casado,Asalariado,17500,2019-10-16,Sucursal,Estado de México,1999-06-05,Ok,20
+C0669,María Herrera Rivera,Casado,Independiente,50400,2024-01-18,Sucursal,Querétaro,1976-11-05,Ok,47
+C0803,Mateo Díaz Reyes,Soltero,Asalariado,,2017-04-28,Sucursal,Querétaro,1993-07-26,Ingreso no declarado,24
+C0738,Verónica Castro Ramos,Soltero,Estudiante,3600,2014-05-16,Sucursal,Estado de México,1985-08-06,Ok,29
+C0245,Fernanda Rivera Ortiz,Unión libre,Asalariado,26100,2024-04-03,Sucursal,Estado de México,1971-06-10,Ok,53
+C0780,Andrea Castillo López,Casado,Asalariado,23200,2023-11-19,App,Guanajuato,1987-08-21,Ok,36
+C0721,Rodrigo Medina Romero,Casado,Asalariado,23300,2023-02-08,Sucursal,Ciudad de México,1977-11-28,Ok,45
+C0481,Juan Méndez Moreno,Soltero,Asalariado,19200,2024-02-15,App,Puebla,2001-06-27,Ok,23
+C0685,María Ortiz Cruz,Casado,Jubilado,13500,2025-08-04,App,Jalisco,1959-08-26,Ok,66
+C0229,Ana Reyes Chávez,Unión libre,Asalariado,15000,2019-04-08,Sucursal,Estado de México,1994-04-29,Ok,25
+C0714,María Velázquez Castro,Casado,Asalariado,16800,2015-06-07,Sucursal,Yucatán,1972-08-12,Ok,43
+C0397,Luis Torres Guzmán,Casado,Asalariado,7700,2022-08-14,App,Estado de México,1988-01-07,Ok,35
+C0351,Roberto Castillo Domínguez,Soltero,Asalariado,15800,2017-11-03,Sucursal,Puebla,1990-05-01,Ok,28
+C0622,José Gómez Morales,Unión libre,Asalariado,18300,2022-11-02,App,Yucatán,1977-02-02,Ok,46
+C0579,Rosa Flores Chávez,Casado,Hogar,8200,2023-06-07,App,Estado de México,1987-02-23,Ok,36
+C0165,Paola Romero Ortiz,Soltero,Asalariado,12300,2025-08-21,App,Yucatán,1982-10-25,Ok,43
+C0766,Daniel López Castro,Casado,Asalariado,56000,2018-07-27,Sucursal,Jalisco,1980-02-12,Ok,38
+C0815,Manuel Castillo Herrera,Casado,Asalariado,35100,2021-11-24,App,Jalisco,1983-03-14,Ok,39
+C0335,Verónica Álvarez Domínguez,Unión libre,Asalariado,44500,2018-04-22,Sucursal,Ciudad de México,1994-03-04,Ok,24
+C0217,Ximena Rojas Velázquez,Viudo,Asalariado,26800,2019-03-10,Sucursal,Querétaro,1965-02-11,Ok,54
+C0223,Daniela García Ortiz,Casado,Asalariado,23000,2025-10-03,App,Guanajuato,1990-02-02,Ok,36
+C0912,Javier Jiménez Vargas,Divorciado,Independiente,10800,2024-02-03,App,Quintana Roo,1994-04-04,Ok,30
+C0331,Miguel Rojas Medina,Casado,Asalariado,31400,2021-11-22,App,Yucatán,1991-03-14,Ok,31
+C0356,Mónica Pérez Vázquez,Casado,Asalariado,17500,2016-10-15,Sucursal,Nuevo León,1986-03-12,Ok,31
+C0027,Mateo Rivera García,Casado,Independiente,25200,2025-06-30,Sucursal,Ciudad de México,1967-04-03,Ok,58
+C0058,Gabriela Rojas Flores,Casado,Independiente,7200,2024-03-30,App,Guanajuato,1980-09-25,Ok,44
+C0047,Guadalupe Herrera Gutiérrez,Casado,Asalariado,12300,2016-07-02,Sucursal,Guanajuato,1979-09-17,Ok,37
+C0329,Rosa Jiménez Aguilar,Soltero,Asalariado,19500,2024-03-25,App,Puebla,2003-05-12,Ok,21
+C0978,Fernanda Méndez Ortiz,Unión libre,Independiente,42800,2017-04-24,Sucursal,Ciudad de México,1993-02-05,Ok,24
+C0915,Mateo Rivera Flores,Viudo,Jubilado,13000,2022-01-31,Sucursal,Jalisco,1956-01-16,Ok,66
+C0099,Andrea Herrera Domínguez,Soltero,Asalariado,17000,2023-08-25,App,Puebla,1997-10-21,Ok,26
+C0285,Patricia Mendoza Hernández,Divorciado,Independiente,26800,2018-05-17,Sucursal,Yucatán,1968-08-25,Ok,50
+C0164,Diana Rivera Moreno,Unión libre,Asalariado,9900,2024-09-09,App,Puebla,1997-04-03,Ok,27
+C0398,Rosa Morales Rojas,Casado,Asalariado,18500,2014-05-18,Sucursal,Puebla,1983-03-18,Ok,31
+C0972,Rodrigo Hernández Moreno,Casado,Asalariado,24100,2012-10-06,Sucursal,Estado de México,1986-07-22,Ok,26
+C0762,Santiago Herrera Herrera,Soltero,Asalariado,12400,2023-01-16,App,Quintana Roo,1982-07-09,Ok,41
+C1000,Mónica Ortiz Méndez,Soltero,Jubilado,7100,2022-08-18,App,Jalisco,1955-03-04,Ok,67
+C0044,Emmanuel Guzmán Ramírez,Soltero,Estudiante,3500,2023-08-24,App,Jalisco,2002-10-07,Ok,21
+C0834,Óscar Rodríguez Ortiz,Unión libre,Asalariado,27900,2019-12-25,Sucursal,Guanajuato,1986-08-30,Ok,33
+C0362,Mateo Moreno Rodríguez,Casado,Asalariado,10400,2022-12-07,App,Guanajuato,1972-03-09,Ok,51
+C0064,Ricardo Medina Castro,Soltero,Asalariado,13700,2012-10-07,Sucursal,Estado de México,1987-02-08,Ok,26
+C0602,Antonio Ramos Herrera,Unión libre,Asalariado,20100,2019-01-02,Sucursal,Guanajuato,1975-04-07,Ok,44
+C0553,Fernanda Rodríguez Álvarez,Divorciado,Asalariado,53800,2024-08-15,App,Jalisco,1978-04-20,Ok,46
+C0572,Héctor Velázquez Reyes,Unión libre,Independiente,53700,2025-06-14,App,Quintana Roo,1998-12-08,Ok,27
+C0039,Alejandro Castillo Castillo,Casado,Asalariado,12000,2024-11-14,Sucursal,Estado de México,1989-03-28,Ok,36
+C0723,José Martínez Gutiérrez,Casado,Independiente,14500,2025-05-08,Sucursal,Ciudad de México,1961-01-25,Ok,64
+C0206,Roberto Castillo Castillo,Unión libre,Asalariado,33900,2023-06-16,App,Guanajuato,1982-05-29,Ok,41
+C0238,Ximena Vázquez Flores,Casado,Independiente,8000,2016-06-21,Sucursal,Estado de México,1983-10-12,Ok,33
+C0636,Paola Pérez Castillo,Unión libre,Asalariado,38100,2012-07-15,Sucursal,Estado de México,1981-11-03,Ok,31
+C0786,Andrea López Rodríguez,Soltero,Estudiante,3500,2018-09-08,Sucursal,Quintana Roo,1989-12-01,Ok,29
+C0922,Eduardo Medina Ortiz,Casado,Independiente,12000,2021-11-07,App,Estado de México,1992-08-18,Ok,29
+C0500,Juan Gómez Vázquez,Soltero,Independiente,21900,2016-11-23,Sucursal,Quintana Roo,1993-04-04,Ok,24
+C0139,Mónica Pérez Rivera,Divorciado,Independiente,28800,2016-12-06,Sucursal,Estado de México,1995-02-19,Ok,22
+C0645,Gerardo Chávez Martínez,Divorciado,Independiente,9500,2022-10-17,Sucursal,Ciudad de México,1991-11-08,Ok,31
+C0774,Carlos Vázquez Ruiz,Unión libre,Asalariado,29500,2024-01-05,App,Quintana Roo,1985-03-09,Ok,39
+C0930,Luis Pérez Castillo,Divorciado,Independiente,7700,2024-01-10,Sucursal,Nuevo León,1979-12-03,Ok,44
+C0995,Patricia Velázquez García,Casado,Asalariado,18700,2012-02-18,Sucursal,Ciudad de México,1993-06-02,Ok,19
+C0957,Elena Romero Castillo,Casado,Asalariado,21300,2023-08-24,App,Jalisco,1996-01-31,Ok,28
+C0678,Sebastián Vargas Moreno,Soltero,Asalariado,16300,2024-11-16,App,Quintana Roo,1990-05-22,Ok,34
+C0300,Óscar Díaz Álvarez,Casado,Asalariado,28900,2021-07-06,App,Estado de México,1993-10-18,Ok,28
+C0960,Ricardo López Juárez,Divorciado,Independiente,7700,2020-10-07,Sucursal,Estado de México,1998-03-19,Ok,23
+C0154,Sofía Gutiérrez López,Divorciado,Asalariado,26300,2021-02-24,Sucursal,Estado de México,1970-04-16,Ok,51
+C0807,Camila Vázquez Jiménez,Soltero,Independiente,7500,2021-08-06,App,Guanajuato,1998-07-24,Ok,23
+C0443,Mónica Guzmán García,Casado,Asalariado,15300,2016-12-27,Sucursal,Jalisco,1984-06-25,Ok,33
+C0062,Ana García Ramírez,Casado,Asalariado,20200,2017-02-25,Sucursal,Nuevo León,1982-06-08,Ok,35
+C0587,Ricardo López Rodríguez,Soltero,Estudiante,5400,2021-10-27,Sucursal,Yucatán,1990-07-16,Ok,31
+C0682,Mariana Sánchez Romero,Unión libre,Asalariado,17700,2020-09-29,Sucursal,Jalisco,1985-10-30,Ok,35
+C0504,Sebastián Cruz Ortiz,Divorciado,Estudiante,5600,2022-08-08,App,Guanajuato,1994-07-14,Ok,28
+C0557,Antonio Cruz López,Casado,Asalariado,16500,2023-03-01,App,Nuevo León,1972-03-28,Ok,51
+C0460,Claudia Díaz Ramírez,Soltero,Independiente,15300,2017-09-23,Sucursal,Nuevo León,1975-01-07,Ok,43
+C0472,Rosa Medina Rodríguez,Soltero,Hogar,3500,2023-02-13,App,Quintana Roo,2000-10-06,Ok,22
+C0187,Raúl Ortiz González,Casado,Asalariado,10600,2018-03-16,Sucursal,Estado de México,1996-02-07,Ok,22
+C0278,Valeria Martínez Castillo,Soltero,Independiente,8900,2022-04-18,Sucursal,Estado de México,1973-11-27,Ok,48
+C0348,Héctor Guzmán Rodríguez,Soltero,Asalariado,12000,2014-06-10,Sucursal,Ciudad de México,1982-12-02,Ok,32
+C0581,Francisco Méndez Álvarez,Viudo,Jubilado,12900,2025-09-07,Sucursal,Ciudad de México,1961-10-12,Ok,64
+C0110,Monserrat Rivera Mendoza,Soltero,Asalariado,18100,2024-03-06,App,Guanajuato,1989-12-04,Ok,34
+C0962,Luis Hernández Álvarez,Casado,Asalariado,,2022-12-08,Sucursal,Ciudad de México,1976-02-09,Ingreso no declarado,47
+C0991,Emmanuel Rivera Morales,Soltero,Asalariado,33400,2016-11-12,Sucursal,Yucatán,1991-02-09,Ok,26
+C0967,José Herrera Guzmán,Divorciado,Jubilado,5800,2015-11-17,Sucursal,Yucatán,1957-03-21,Ok,59
+C0684,Diego Ramos Díaz,Soltero,Hogar,,2023-10-16,App,Puebla,1987-03-14,Ingreso no declarado,37
+C0149,Monserrat Sánchez Méndez,Unión libre,Independiente,39400,2012-05-17,Sucursal,Ciudad de México,1983-07-28,Ok,29
+C0974,Gerardo López Gutiérrez,Soltero,Asalariado,10500,2025-01-21,App,Estado de México,1994-03-30,Ok,31
+C0306,Juan Gómez González,Soltero,Asalariado,10700,2014-12-16,Sucursal,Ciudad de México,1993-10-12,Ok,21
+C0532,Daniel González González,Soltero,Hogar,5500,2014-12-22,Sucursal,Ciudad de México,1988-05-23,Ok,27
+C0205,Luis González López,Unión libre,Asalariado,18600,2017-02-06,Sucursal,Ciudad de México,1983-06-01,Ok,34
+C0492,Óscar Mendoza Gutiérrez,Casado,Independiente,40300,2017-11-30,Sucursal,Estado de México,1972-04-07,Ok,46
+C0172,Carlos Medina Castillo,Casado,Estudiante,5200,2015-08-13,Sucursal,Puebla,1987-07-29,Ok,28
+C0129,Paola Velázquez García,Casado,Asalariado,19900,2024-08-19,Sucursal,Ciudad de México,1986-03-05,Ok,38
+C0944,Mateo Pérez Guzmán,Unión libre,Independiente,22900,2018-06-01,Sucursal,Jalisco,1983-05-19,Ok,35
+C0512,Javier Juárez Ruiz,Soltero,Estudiante,3500,2018-05-05,Sucursal,Jalisco,1992-06-09,Ok,26
+C0325,Camila Gutiérrez Gómez,Soltero,Asalariado,11100,2021-07-30,Sucursal,Estado de México,1999-10-08,Ok,22
+C0373,Javier Flores Torres,Viudo,Jubilado,11100,2023-05-15,App,Estado de México,1955-08-26,Ok,68
+C0898,Mónica Gómez Rivera,Viudo,Hogar,9500,2021-12-28,App,Guanajuato,1955-05-15,Ok,67
+C0880,Daniela Gutiérrez Velázquez,Casado,Independiente,26900,2012-09-06,Sucursal,Nuevo León,1979-10-24,Ok,33
+C0906,Guadalupe Castro Flores,Casado,Hogar,16400,2020-06-01,Sucursal,Querétaro,1983-02-28,Ok,37
+C0701,Leticia Aguilar Gutiérrez,Divorciado,Estudiante,7300,2022-12-25,App,Yucatán,1982-12-28,Ok,40
+C0761,Leticia López Castro,Casado,Estudiante,6700,2015-02-06,Sucursal,Nuevo León,1987-09-07,Ok,27
+C0410,Óscar Ortiz Vázquez,Casado,Asalariado,17400,2023-11-14,Sucursal,Jalisco,1978-06-14,Ok,45
+C0464,Arturo Rivera Herrera,Casado,Hogar,4900,2018-03-24,Sucursal,Ciudad de México,1971-06-29,Ok,47
+C0473,Monserrat Gutiérrez Jiménez,Unión libre,Asalariado,10900,2014-01-13,Sucursal,Ciudad de México,1986-12-15,Ok,27
+C0135,Verónica Flores García,Unión libre,Asalariado,17800,2025-01-17,App,Yucatán,1985-12-08,Ok,39
+C0317,Itzel Castro Sánchez,Soltero,Estudiante,6600,2024-02-23,Sucursal,Querétaro,2000-10-24,Ok,23
+C0660,Miguel Ortiz Ruiz,Soltero,Independiente,56100,2025-05-22,App,Quintana Roo,2000-09-05,Ok,25
+C0260,Regina Rojas Aguilar,Soltero,Independiente,9300,2023-07-25,App,Jalisco,1992-05-24,Ok,31
+C0160,Gerardo Pérez Jiménez,Unión libre,Asalariado,47900,2023-10-10,App,Querétaro,1999-02-06,Ok,25
+C0448,Gabriela Chávez Ramírez,Casado,Independiente,78800,2018-01-28,Sucursal,Guanajuato,1982-03-13,Ok,36
+C0940,Óscar Méndez Vargas,Unión libre,Estudiante,3800,2019-01-24,Sucursal,Guanajuato,1977-09-23,Ok,41
+C0506,Patricia Pérez Ortiz,Unión libre,Independiente,38700,2023-07-01,Sucursal,Estado de México,1993-04-30,Ok,30
+C0049,Héctor Jiménez Díaz,Soltero,Asalariado,12700,2012-11-22,Sucursal,Estado de México,1990-05-06,Ok,23
+C0075,Paola Chávez Díaz,Soltero,Asalariado,12300,2020-01-23,Sucursal,Estado de México,1974-08-29,Ok,45
+C0511,Carlos Cruz Jiménez,Casado,Asalariado,13000,2021-05-17,Sucursal,Nuevo León,1989-10-04,Ok,32
+C0327,Iván Vargas Velázquez,Soltero,Asalariado,16200,2018-05-25,Sucursal,Guanajuato,1990-09-14,Ok,28
+C0345,Iván Juárez Flores,Unión libre,Independiente,26200,2012-09-03,Sucursal,Querétaro,1991-10-31,Ok,21
+C0509,Gabriela Domínguez Morales,Casado,Estudiante,6300,2019-12-14,Sucursal,Estado de México,1988-01-17,Ok,32
+C0295,Brenda Rojas García,Casado,Estudiante,8700,2020-01-19,App,Querétaro,1985-12-14,Ok,34
+C0696,Daniel Romero Rodríguez,Unión libre,Independiente,5000,2015-03-11,Sucursal,Guanajuato,1987-04-25,Ok,28
+C0272,Laura Domínguez Mendoza,Soltero,Independiente,14100,2024-06-03,App,Querétaro,2004-06-11,Ok,20
+C0617,María Sánchez Flores,Soltero,Independiente,42600,2025-05-25,App,Jalisco,1989-12-11,Ok,35
+C0735,Claudia Castro Álvarez,Casado,Asalariado,28400,2018-08-17,Sucursal,Jalisco,1976-09-05,Ok,42
+C0233,Santiago Velázquez Rodríguez,Unión libre,Asalariado,13600,2017-01-26,Sucursal,Puebla,1995-10-05,Ok,21
+C0055,Miguel Rivera Jiménez,Soltero,Asalariado,14400,2015-10-02,Sucursal,Querétaro,1972-05-09,Ok,43
+C0850,Arturo Martínez Álvarez,Unión libre,Hogar,6100,2017-09-14,Sucursal,Puebla,1994-10-08,Ok,23
+C0098,Francisco Rodríguez Méndez,Casado,Hogar,9000,2012-12-21,Sucursal,Nuevo León,1974-11-15,Ok,38
+C0683,Héctor Sánchez Ortiz,Casado,Jubilado,7500,2022-03-06,Sucursal,Querétaro,1948-11-12,Ok,73
+C0404,Héctor Rojas Herrera,Soltero,Asalariado,16900,2014-05-11,Sucursal,Querétaro,1972-02-23,Ok,42
+C0805,Fernando Ramírez Rodríguez,Casado,Asalariado,19800,2016-12-16,Sucursal,Quintana Roo,1981-11-11,Ok,35
+C0128,Roberto Mendoza Juárez,Casado,Asalariado,57500,2025-06-15,App,Ciudad de México,1989-05-04,Ok,36
+C0376,Antonio Díaz Rodríguez,Unión libre,Asalariado,20900,2023-09-18,Sucursal,Quintana Roo,1971-10-05,Ok,52
+C0864,Francisco Rojas Romero,Casado,Independiente,13100,2014-02-21,Sucursal,Ciudad de México,1973-11-21,Ok,40
+C0708,José Moreno Romero,Soltero,Independiente,36600,2016-03-11,Sucursal,Estado de México,1979-12-04,Ok,36
+C0988,Regina Ramírez Ruiz,Casado,Asalariado,12600,2025-10-17,Sucursal,Nuevo León,1978-09-03,Ok,47
+C0710,Gabriela Ramos Torres,Soltero,Estudiante,4500,2018-12-12,Sucursal,Estado de México,1994-07-28,Ok,24
+C0526,Rosa Velázquez Torres,Unión libre,Asalariado,5800,2021-12-26,App,Ciudad de México,1994-05-31,Ok,28
+C0081,Luis Rojas Vargas,Unión libre,Asalariado,29800,2024-07-28,Sucursal,Jalisco,1977-07-11,Ok,47
+C0159,Manuel Vargas Hernández,Casado,Asalariado,10200,2023-07-15,App,Estado de México,1998-11-01,Ok,25
+C0420,Juan Jiménez Castillo,Soltero,Asalariado,17900,2023-12-01,App,Guanajuato,1989-09-25,Ok,34
+C0419,Elena Castillo López,Soltero,Asalariado,24400,2022-08-08,App,Nuevo León,1974-03-27,Ok,48
+C0884,Eduardo Morales Medina,Soltero,Asalariado,10500,2019-05-22,Sucursal,Estado de México,1990-01-03,Ok,29
+C0681,Elena Díaz Ramírez,Soltero,Asalariado,25600,2023-03-22,Sucursal,Guanajuato,1994-07-01,Ok,29
+C0668,Jorge Ramírez Martínez,Soltero,Asalariado,27800,2016-08-17,Sucursal,Ciudad de México,1992-04-18,Ok,24
+C0737,Emiliano Flores Gómez,Divorciado,Independiente,16900,2022-06-28,Sucursal,Querétaro,1979-02-25,Ok,43
+C0514,Luis Castillo Jiménez,Soltero,Independiente,15700,2021-02-11,Sucursal,Yucatán,2002-12-15,Ok,18
+C0800,Sebastián Rivera Ramírez,Divorciado,Independiente,5300,2019-07-29,Sucursal,Yucatán,1977-03-13,Ok,42
+C0949,Javier Pérez Díaz,Casado,Asalariado,38900,2013-05-30,Sucursal,Yucatán,1973-08-30,Ok,40
+C0593,Roberto Ruiz Herrera,Soltero,Asalariado,26500,2020-11-09,Sucursal,Estado de México,2000-06-12,Ok,20
+C0891,Leticia Herrera Mendoza,Casado,Asalariado,25300,2012-05-04,Sucursal,Querétaro,1979-11-22,Ok,32
+C0180,Héctor Domínguez Romero,Casado,Asalariado,21000,2024-01-13,App,Jalisco,1979-09-22,Ok,44
+C0467,Alejandra Pérez Aguilar,Casado,Asalariado,18300,2016-02-29,Sucursal,Ciudad de México,1993-06-09,Ok,23
+C0790,Arturo Chávez Álvarez,Soltero,Hogar,6500,2022-11-18,App,Jalisco,1982-07-15,Ok,40
+C0718,Manuel Álvarez Torres,Casado,Asalariado,13400,2019-03-01,Sucursal,Puebla,1964-05-05,Ok,55
+C0123,Juan Vázquez Chávez,Unión libre,Asalariado,18800,2025-01-19,Sucursal,Estado de México,1993-07-24,Ok,31
+C0755,Andrea Cruz Rodríguez,Divorciado,Asalariado,19700,2021-04-24,Sucursal,Puebla,1978-05-29,Ok,43
+C0990,Diego Cruz Sánchez,Casado,Asalariado,26400,2023-10-21,Sucursal,Ciudad de México,1982-06-23,Ok,41
+C0753,Diego López Martínez,Divorciado,Asalariado,25000,2025-10-20,Sucursal,Ciudad de México,1984-10-18,Ok,41
+C0878,Ricardo Hernández García,Casado,Independiente,10200,2022-01-05,Sucursal,Puebla,1978-07-11,Ok,43
+C0603,Guadalupe Ramos Gómez,Soltero,Asalariado,17500,2015-08-15,Sucursal,Ciudad de México,1988-02-25,Ok,27
+C0447,Fernanda González Hernández,Casado,Hogar,6900,2020-05-07,Sucursal,Ciudad de México,1984-06-30,Ok,36
+C0286,Juan Torres García,Soltero,Asalariado,19700,2019-05-05,Sucursal,Estado de México,1981-12-08,Ok,37
+C0952,Paola Méndez Pérez,Soltero,Asalariado,7400,2015-09-06,Sucursal,Guanajuato,1990-06-11,Ok,25
+C0412,Regina Medina Velázquez,Casado,Independiente,10700,2012-09-07,Sucursal,Nuevo León,1991-03-31,Ok,21
+C0986,Gabriela Ramos Torres,Casado,Independiente,6400,2019-11-17,Sucursal,Querétaro,1969-07-16,Ok,50
+C0390,Camila Pérez Ortiz,Casado,Asalariado,8400,2022-07-21,App,Jalisco,1996-08-15,Ok,26
+C0257,Miguel Herrera Guzmán,Divorciado,Hogar,3500,2024-08-14,App,Yucatán,1955-11-21,Ok,69
+C0221,Brenda Gómez Gutiérrez,Soltero,Estudiante,4700,2014-09-03,Sucursal,Nuevo León,1995-04-05,Ok,19
+C0456,Sofía Aguilar Gutiérrez,Casado,Jubilado,7500,2020-01-24,Sucursal,Guanajuato,1955-06-14,Ok,65
+C0016,Brenda Martínez Moreno,Casado,Asalariado,19800,2012-09-14,Sucursal,Jalisco,1988-07-30,Ok,24
+C0254,Manuel Ruiz López,Casado,Asalariado,31400,2018-02-19,Sucursal,Querétaro,1993-06-21,Ok,25
+C0552,Verónica Mendoza Martínez,Soltero,Asalariado,14200,2012-02-05,Sucursal,Estado de México,1983-11-08,Ok,28
+C0454,Arturo Ramos Díaz,Soltero,Independiente,14600,2015-12-01,Sucursal,Estado de México,1972-06-01,Ok,43
+C0290,Juan Rivera Rodríguez,Unión libre,Asalariado,29200,2025-01-27,App,Guanajuato,1973-06-05,Ok,52
+C0806,Javier Gutiérrez Rivera,Casado,Independiente,26400,2022-08-11,Sucursal,Nuevo León,1990-08-27,Ok,32
+C0902,Manuel Díaz Torres,Casado,Asalariado,13900,2021-11-16,App,Estado de México,1991-05-19,Ok,30
+C0797,Fernanda Hernández Díaz,Casado,Asalariado,32900,2023-07-30,App,Guanajuato,1987-11-30,Ok,36
+C0851,Pablo Morales Medina,Soltero,Asalariado,22600,2019-12-06,Sucursal,Ciudad de México,1971-02-03,Ok,49
+C0450,Emmanuel Velázquez Herrera,Unión libre,Asalariado,22400,2014-04-16,Sucursal,Jalisco,1992-05-02,Ok,22
+C0424,Santiago Rivera Ortiz,Soltero,Hogar,5900,2023-10-31,App,Ciudad de México,1979-05-06,Ok,44
+C0997,Pablo López Díaz,Casado,Asalariado,24600,2021-04-18,Sucursal,Jalisco,1971-06-28,Ok,50
+C0385,Paola Castillo Velázquez,Unión libre,Asalariado,27600,2022-11-10,App,Yucatán,1982-06-13,Ok,40
+C0173,Francisco Chávez Ramos,Casado,Asalariado,16300,2021-11-10,Sucursal,Estado de México,1980-03-07,Ok,42
+C0733,Iván Torres Romero,Casado,Asalariado,10600,2025-08-16,App,Quintana Roo,1992-08-28,Ok,33
+C0148,Leticia Moreno Rivera,Casado,Asalariado,18800,2020-04-07,Sucursal,Estado de México,1972-10-21,Ok,47
+C0531,Karla Flores Castillo,Soltero,Hogar,11900,2022-01-28,Sucursal,Jalisco,1990-08-22,Ok,31
+C0340,Javier Pérez Cruz,Soltero,Hogar,9300,2012-06-16,Sucursal,Ciudad de México,1978-06-25,Ok,34
+C0474,Ricardo González Reyes,Casado,Hogar,7300,2023-10-07,Sucursal,Querétaro,1983-08-17,Ok,40
+C0052,Andrea Reyes Ramos,Casado,Asalariado,16200,2024-09-16,App,Estado de México,1987-01-24,Ok,38
+C0980,Daniela Álvarez Gutiérrez,Unión libre,Independiente,6600,2024-07-24,Sucursal,Estado de México,1991-09-11,Ok,33
+C0322,Luis Álvarez Pérez,Soltero,Asalariado,37500,2023-10-07,App,Nuevo León,1986-05-13,Ok,37
+C0023,Elena Reyes Rojas,Divorciado,Asalariado,48500,2023-12-15,App,Estado de México,1973-12-18,Ok,50
+C0396,Karla Romero Vargas,Casado,Asalariado,16000,2020-07-05,Sucursal,Yucatán,1984-12-12,Ok,36
+C0907,Sebastián Jiménez Gómez,Casado,Asalariado,22700,2016-02-02,Sucursal,Nuevo León,1970-01-06,Ok,46
+C0298,Arturo Gutiérrez Vázquez,Casado,Asalariado,37000,2021-12-22,App,Yucatán,1984-09-01,Ok,37
+C0210,Daniela Álvarez González,Casado,Asalariado,38300,2022-04-11,App,Yucatán,1967-02-09,Ok,55
+C0284,Gerardo Rivera Juárez,Casado,Independiente,8200,2024-08-04,Sucursal,Nuevo León,1978-04-11,Ok,46
+C0143,Sofía Álvarez Rivera,Viudo,Jubilado,32200,2022-12-25,Sucursal,Ciudad de México,1960-08-27,Ok,62
+C0051,Eduardo Ruiz Morales,Soltero,Independiente,16800,2019-11-06,Sucursal,Nuevo León,1989-05-09,Ok,30
+C0167,Adriana Jiménez Flores,Casado,Asalariado,33400,2013-06-20,Sucursal,Estado de México,1993-12-14,Ok,20
+C0624,Rosa García Reyes,Divorciado,Asalariado,21200,2021-02-09,App,Estado de México,1992-12-03,Ok,28
+C0841,Claudia Ramírez Domínguez,Casado,Asalariado,17200,2017-09-17,Sucursal,Estado de México,1979-03-22,Ok,38
+C0082,Itzel Ramírez Moreno,Casado,Independiente,6500,2025-04-22,Sucursal,Quintana Roo,1977-12-06,Ok,47
+C0529,Gerardo Sánchez Velázquez,Casado,Asalariado,20600,2013-06-20,Sucursal,Querétaro,1990-08-11,Ok,23
+C0734,Miguel Vargas Rivera,Casado,Asalariado,13100,2022-01-10,Sucursal,Ciudad de México,1992-07-22,Ok,29
+C0989,Verónica Sánchez Vargas,Divorciado,Independiente,5500,2024-03-26,Sucursal,Quintana Roo,1988-01-06,Ok,36
+C0067,Regina Romero Díaz,Casado,Asalariado,22500,2018-04-21,Sucursal,Estado de México,1983-10-08,Ok,35
+C0973,Luis Ruiz Rodríguez,Casado,Asalariado,15100,2016-07-06,Sucursal,Yucatán,1965-06-26,Ok,51
+C0659,Paola López Sánchez,Soltero,Estudiante,9800,2022-12-18,App,Ciudad de México,1976-05-09,Ok,47
+C0871,Adriana Ramírez Hernández,Unión libre,Hogar,6500,2018-09-11,Sucursal,Ciudad de México,1991-07-11,Ok,27
+C0497,Laura Morales Gutiérrez,Soltero,Asalariado,17200,2022-06-17,App,Nuevo León,1966-11-10,Ok,56
+C0423,Miguel Torres Rivera,Casado,Asalariado,7500,2022-10-29,App,Yucatán,1997-06-08,Ok,25
+C0516,Antonio Vargas Herrera,Soltero,Asalariado,13300,2020-11-20,App,Nuevo León,1981-09-09,Ok,39
+C0065,Iván Herrera Ramírez,Casado,Independiente,21800,2025-08-05,App,Querétaro,1996-11-14,Ok,29
+C0650,Lucía Herrera Juárez,Soltero,Hogar,8100,2021-01-21,Sucursal,Nuevo León,1984-01-17,Ok,37
+C0265,Ricardo Rivera Gutiérrez,Casado,Independiente,23500,2019-05-04,Sucursal,Ciudad de México,1989-05-27,Ok,30
+C0378,Regina Ramírez Torres,Casado,Asalariado,20200,2016-12-06,Sucursal,Estado de México,1979-12-21,Ok,37
+C0823,Fernando Medina Moreno,Divorciado,Independiente,7700,2024-04-28,App,Guanajuato,1979-10-24,Ok,45
+C0505,Alejandro Guzmán González,Casado,Asalariado,17100,2020-09-28,Sucursal,Quintana Roo,1997-06-08,Ok,23
+C0021,Ricardo Romero Herrera,Casado,Asalariado,31400,2025-03-04,App,Yucatán,1973-11-28,Ok,51
+C0372,Rodrigo Reyes Vázquez,Soltero,Estudiante,7700,2019-12-19,Sucursal,Querétaro,1997-04-16,Ok,23
+C0772,Camila Castillo Mendoza,Unión libre,Asalariado,10700,2025-06-08,Sucursal,Ciudad de México,1990-03-28,Ok,35
+C0813,Francisco Gómez Jiménez,Casado,Independiente,5200,2021-10-17,App,Quintana Roo,1993-04-30,Ok,28
+C0956,Francisco Moreno Ramírez,Soltero,Asalariado,9200,2020-06-03,Sucursal,Estado de México,1971-08-07,Ok,49
+C0535,Francisco Juárez Sánchez,Soltero,Asalariado,12700,2022-09-12,App,Nuevo León,1984-11-29,Ok,38
+C0262,Sofía García Cruz,Casado,Jubilado,13800,2020-10-24,Sucursal,Estado de México,1946-10-07,Ok,74
+C0894,Ximena Jiménez Martínez,Soltero,Asalariado,22600,2019-08-15,Sucursal,Nuevo León,1998-11-22,Ok,21
+C0628,Francisco Méndez Herrera,Divorciado,Asalariado,13800,2025-04-03,App,Nuevo León,1966-11-07,Ok,58
+C0319,Javier Chávez Ramos,Unión libre,Asalariado,9500,2024-07-03,App,Guanajuato,1982-04-12,Ok,42
+C0573,Monserrat Guzmán Martínez,Casado,Independiente,8700,2017-12-02,Sucursal,Ciudad de México,1959-03-04,Ok,59
+C0466,Jorge Velázquez Juárez,Divorciado,Asalariado,22200,2020-03-14,Sucursal,Ciudad de México,1972-07-16,Ok,48
+C0827,Karla Morales Ramírez,Unión libre,Asalariado,15600,2012-05-19,Sucursal,Guanajuato,1993-04-30,Ok,19
+C0189,Laura Ruiz López,Soltero,Hogar,7200,2024-04-10,App,Querétaro,1980-01-05,Ok,44
+C0252,Lucía Guzmán González,Soltero,Asalariado,47500,2015-12-14,Sucursal,Puebla,1979-11-23,Ok,36
+C0072,Daniela López Jiménez,Divorciado,Asalariado,11200,2021-09-04,Sucursal,Querétaro,1971-07-14,Ok,50
+C0695,Diego Vázquez Méndez,Soltero,Asalariado,23700,2017-03-01,Sucursal,Quintana Roo,1972-06-09,Ok,45
+C0809,Jorge Flores Jiménez,Unión libre,Asalariado,18100,2025-08-16,App,Quintana Roo,1986-06-15,Ok,39
+C0706,Raúl García Gómez,Divorciado,Independiente,41300,2020-05-12,Sucursal,Puebla,1979-02-24,Ok,41
+C0352,Regina Vargas Ortiz,Casado,Independiente,26700,2020-08-05,Sucursal,Estado de México,1991-10-23,Ok,29
+C0717,José Romero Chávez,Soltero,Independiente,37000,2023-09-06,App,Guanajuato,2000-07-12,Ok,23
+C0625,Elena Rivera Vázquez,Unión libre,Asalariado,14000,2023-09-28,Sucursal,Puebla,1985-10-07,Ok,38
+C0933,Emiliano López Guzmán,Soltero,Asalariado,34200,2023-06-12,Sucursal,Yucatán,1970-01-26,Ok,53
+C0844,Gerardo Rivera Romero,Casado,Asalariado,13700,2016-03-18,Sucursal,Ciudad de México,1968-07-04,Ok,48
+C0672,Emmanuel Sánchez Romero,Casado,Estudiante,4300,2023-08-14,App,Nuevo León,1976-01-28,Ok,48
+C0732,Miguel Hernández Morales,Soltero,Independiente,16300,2022-04-14,App,Estado de México,1998-10-05,Ok,24
+C0687,José Castro Ruiz,Unión libre,Asalariado,18200,2016-01-27,Sucursal,Ciudad de México,1994-08-25,Ok,21
+C0508,Diego Guzmán Méndez,Soltero,Independiente,22000,2025-05-06,App,Nuevo León,1981-03-22,Ok,44
+C0814,Claudia Ramírez Rojas,Soltero,Asalariado,40200,2021-10-16,App,Querétaro,1982-03-17,Ok,40
+C0559,Diana Vázquez Aguilar,Soltero,Asalariado,18400,2025-03-02,App,Estado de México,1971-01-04,Ok,54
+C0680,Monserrat Vargas Medina,Unión libre,Asalariado,17400,2024-04-03,Sucursal,Ciudad de México,1972-06-11,Ok,52
+C0934,Miguel Ramírez Guzmán,Casado,Jubilado,14100,2022-09-28,App,Ciudad de México,1961-06-06,Ok,61
+C0337,Sebastián Vargas Sánchez,Casado,Jubilado,15800,2020-04-01,Sucursal,Ciudad de México,1953-02-08,Ok,67
+C0843,Gerardo Rodríguez Medina,Casado,Asalariado,23200,2012-10-09,Sucursal,Jalisco,1975-09-26,Ok,37
+C0436,Gabriela González Méndez,Soltero,Independiente,84300,2018-12-29,Sucursal,Puebla,1990-07-19,Ok,28
+C0219,Adriana Martínez Ramos,Casado,Asalariado,18900,2013-07-18,Sucursal,Guanajuato,1987-04-01,Ok,26
+C0240,Iván López Castro,Unión libre,Asalariado,13700,2023-12-15,App,Guanajuato,1973-03-13,Ok,51
+C0524,Itzel Méndez Castillo,Casado,Asalariado,10700,2022-09-27,App,Estado de México,1973-02-24,Ok,50
+C0658,Mariana Velázquez Chávez,Soltero,Asalariado,28900,2021-12-27,Sucursal,Ciudad de México,1969-07-08,Ok,52
+C0193,Regina Jiménez Pérez,Casado,Asalariado,9700,2024-04-23,App,Guanajuato,1990-01-23,Ok,34
+C0770,Valeria Medina Moreno,Soltero,Estudiante,5300,2021-04-05,Sucursal,Guanajuato,1996-08-29,Ok,25
+C0192,Fernanda Martínez Rojas,Divorciado,Asalariado,30900,2025-04-27,App,Quintana Roo,1985-01-17,Ok,40
+C0493,Paola Chávez Martínez,Unión libre,Independiente,21300,2019-11-03,Sucursal,Puebla,1989-08-31,Ok,30
+C0883,Eduardo Domínguez Herrera,Casado,Independiente,33700,2021-07-10,Sucursal,Estado de México,1984-04-13,Ok,37
+C0368,Mateo Rivera Méndez,Soltero,Asalariado,12500,2023-04-26,Sucursal,Quintana Roo,2000-04-20,Ok,23
+C0133,Gerardo Romero Herrera,Soltero,Asalariado,18100,2017-11-16,Sucursal,Yucatán,1998-10-14,Ok,19
+C0363,Manuel Torres Chávez,Casado,Asalariado,26900,2023-11-03,Sucursal,Quintana Roo,1967-01-18,Ok,57
+C0253,Diana Hernández Aguilar,Soltero,Asalariado,27400,2025-08-29,App,Nuevo León,1994-09-19,Ok,31
+C0674,Mariana Cruz Álvarez,Casado,Estudiante,5700,2022-02-12,App,Estado de México,1984-04-23,Ok,38
+C0515,Elena Chávez Mendoza,Unión libre,Estudiante,4500,2024-09-02,Sucursal,Jalisco,2004-02-26,Ok,21
+C0264,Brenda Morales Díaz,Casado,Asalariado,17600,2022-05-28,Sucursal,Guanajuato,1997-04-27,Ok,25
+C0071,Itzel Vázquez González,Casado,Independiente,3500,2015-08-13,Sucursal,Guanajuato,1982-04-30,Ok,33
+C0273,Gerardo Castillo García,Casado,Asalariado,5800,2013-03-21,Sucursal,Jalisco,1993-01-10,Ok,20
+C0968,Mariana Velázquez Chávez,Casado,Asalariado,21300,2024-12-18,App,Estado de México,1979-08-03,Ok,45
+C0328,Patricia González García,Casado,Independiente,15300,2024-07-20,App,Estado de México,1991-12-05,Ok,33
+C0116,Rodrigo Martínez García,Unión libre,Independiente,7200,2012-07-01,Sucursal,Ciudad de México,1973-07-20,Ok,39
+C0324,Claudia Jiménez Álvarez,Casado,Asalariado,36500,2021-04-18,App,Puebla,1984-02-11,Ok,37
+C0963,Monserrat Cruz Álvarez,Soltero,Hogar,5500,2017-02-25,Sucursal,Jalisco,1991-04-22,Ok,26
+C0784,Juan Hernández Martínez,Divorciado,Asalariado,28100,2012-11-06,Sucursal,Jalisco,1965-02-10,Ok,48
+C0366,Javier Martínez Rodríguez,Casado,Asalariado,44800,2022-12-26,App,Jalisco,1993-05-29,Ok,30
+C0490,Gabriela Rodríguez Rodríguez,Soltero,Asalariado,11900,2023-12-01,App,Querétaro,1996-03-30,Ok,28
+C0846,Mariana Chávez Domínguez,Divorciado,Hogar,10000,2012-06-11,Sucursal,Nuevo León,1986-01-24,Ok,26
+C0777,Mónica Pérez Sánchez,Casado,Asalariado,24000,2023-09-03,Sucursal,Nuevo León,1984-08-12,Ok,39
+C0838,Santiago González Sánchez,Casado,Independiente,9800,2020-11-06,Sucursal,Estado de México,1963-07-26,Ok,57
+C0452,Regina Romero Ruiz,Soltero,Asalariado,24100,2022-05-25,App,Guanajuato,1978-12-16,Ok,43
+C0564,Diego Ruiz Rojas,Casado,Asalariado,9800,2023-01-29,App,Ciudad de México,1999-07-04,Ok,24
+C0446,Diego Reyes Romero,Unión libre,Asalariado,24600,2021-05-08,Sucursal,Jalisco,1973-06-17,Ok,48
+C0612,Diana Díaz Méndez,Soltero,Asalariado,21600,2019-12-31,Sucursal,Estado de México,1980-02-04,Ok,40
+C0279,Regina Cruz Aguilar,Soltero,Asalariado,10700,2013-08-18,Sucursal,Querétaro,1983-12-20,Ok,30
+C0789,Ana López Méndez,Casado,Asalariado,,2013-11-02,Sucursal,Nuevo León,1976-05-05,Ingreso no declarado,37
+C0651,Alejandra Rojas Gómez,Soltero,Estudiante,9800,2025-11-20,Sucursal,Jalisco,2006-01-14,Ok,20
+C0003,Verónica Castillo Cruz,Casado,Independiente,47700,2023-06-04,Sucursal,Jalisco,1989-01-21,Ok,34
+C0230,Guadalupe Ortiz Gómez,Unión libre,Asalariado,28500,2015-02-12,Sucursal,Estado de México,1980-10-26,Ok,34
+C0631,Guadalupe Guzmán Castillo,Soltero,Estudiante,3700,2022-12-03,Sucursal,Querétaro,2003-07-15,Ok,19
+C0946,Jorge Ramos Ortiz,Casado,Independiente,29900,2024-11-09,Sucursal,Estado de México,1989-09-10,Ok,35
+C0455,Emmanuel Herrera Hernández,Soltero,Estudiante,3500,2021-12-14,Sucursal,Estado de México,1999-07-24,Ok,22
+C0858,María Aguilar Herrera,Casado,Asalariado,20800,2018-06-05,Sucursal,Quintana Roo,1973-03-28,Ok,45
+C0200,Francisco Mendoza Ruiz,Soltero,Asalariado,24100,2024-06-13,App,Querétaro,1998-05-25,Ok,26
+C0860,Rosa Reyes Ruiz,Soltero,Asalariado,14700,2023-10-06,App,Yucatán,1993-02-26,Ok,31
+C0750,Daniela Ruiz González,Casado,Independiente,11400,2024-03-11,App,Nuevo León,1986-06-04,Ok,38
+C0066,Diego Reyes Gómez,Soltero,Asalariado,28900,2012-12-12,Sucursal,Jalisco,1984-04-26,Ok,29
+C0656,Laura López Gutiérrez,Casado,Independiente,16400,2023-05-26,Sucursal,Estado de México,1997-03-03,Ok,26
+C0041,Valeria Romero Hernández,Soltero,Independiente,5800,2018-03-15,Sucursal,Ciudad de México,1997-02-08,Ok,21
+C0745,Leticia Reyes Jiménez,Casado,Asalariado,17100,2020-03-07,Sucursal,Estado de México,1975-10-06,Ok,44
+C0783,Fernanda Mendoza Álvarez,Soltero,Independiente,20900,2022-08-10,Sucursal,Estado de México,1979-04-15,Ok,43
+C0903,Gabriela Aguilar Chávez,Casado,Asalariado,16400,2016-12-28,Sucursal,Jalisco,1997-07-18,Ok,19
+C0499,Roberto García Ramírez,Casado,Independiente,19500,2024-10-05,App,Puebla,1991-11-28,Ok,33
+C0947,Héctor Rojas Ramírez,Unión libre,Independiente,43400,2018-02-20,Sucursal,Ciudad de México,1988-04-27,Ok,30
+C0565,Sofía Álvarez Vázquez,Casado,Asalariado,7400,2025-11-21,App,Puebla,1991-07-24,Ok,34
+C0274,Luis Rivera Guzmán,Soltero,Asalariado,23000,2025-08-05,App,Yucatán,1987-09-26,Ok,38
+C0697,Karla Ortiz Vargas,Soltero,Asalariado,10900,2014-03-06,Sucursal,Estado de México,1977-04-10,Ok,37
+C0937,Mariana Gómez Velázquez,Unión libre,Asalariado,19700,2022-07-11,App,Nuevo León,1993-09-03,Ok,29
+C0486,Sebastián Romero González,Casado,Jubilado,20100,2016-11-12,Sucursal,Estado de México,1944-07-15,Ok,72
+C0771,Brenda González Medina,Soltero,Asalariado,11300,2024-02-02,App,Puebla,2003-08-09,Ok,20
+C0178,Raúl Díaz Sánchez,Soltero,Estudiante,6900,2013-08-26,Sucursal,Ciudad de México,1993-11-22,Ok,20
+C0301,Regina Ruiz Morales,Casado,Asalariado,14500,2024-11-16,App,Jalisco,1980-02-05,Ok,45
+C0038,Ana García Rivera,Unión libre,Hogar,7000,2014-03-07,Sucursal,Nuevo León,1990-06-12,Ok,24
+C0485,Mariana Flores González,Soltero,Independiente,28000,2014-10-09,Sucursal,Jalisco,1968-02-07,Ok,47
+C0203,Sofía Ruiz Romero,Casado,Independiente,10600,2025-01-07,App,Yucatán,1996-06-08,Ok,29
+C0237,Rodrigo Ramírez Torres,Unión libre,Independiente,4800,2024-04-01,Sucursal,Ciudad de México,1990-06-03,Ok,34
+C0150,Ana Cruz Rodríguez,Casado,Asalariado,11200,2022-04-09,Sucursal,Jalisco,1974-07-17,Ok,48
+C0218,Emmanuel Morales Vargas,Casado,Asalariado,17900,2024-10-10,App,Puebla,1980-02-09,Ok,45
+C0676,Pablo Aguilar Flores,Soltero,Hogar,9200,2021-06-23,Sucursal,Nuevo León,1967-07-24,Ok,54
+C0400,Lucía Vázquez López,Soltero,Asalariado,13800,2018-09-27,Sucursal,Guanajuato,1982-01-31,Ok,37
+C0899,Lucía Vázquez Castro,Unión libre,Asalariado,25700,2018-02-25,Sucursal,Ciudad de México,1980-12-22,Ok,37
+C0611,Ximena Romero Martínez,Casado,Independiente,39800,2020-05-17,Sucursal,Ciudad de México,1974-10-22,Ok,46
+C0569,Jorge González Reyes,Soltero,Independiente,18700,2023-01-16,Sucursal,Nuevo León,1983-05-21,Ok,40
+C0303,Miguel Herrera Méndez,Soltero,Hogar,8200,2020-05-09,Sucursal,Jalisco,1967-11-16,Ok,52
+C0857,Brenda Castro Hernández,Soltero,Independiente,48300,2013-01-10,Sucursal,Nuevo León,1969-09-19,Ok,43
+C0917,Gabriela Flores Vázquez,Casado,Asalariado,15100,2023-04-22,App,Puebla,1996-06-07,Ok,27
+C0670,Arturo Aguilar Martínez,Casado,Asalariado,15600,2025-05-30,App,Yucatán,1983-10-09,Ok,42
+C0924,Brenda Reyes García,Casado,Asalariado,14500,2022-08-01,App,Puebla,1987-01-22,Ok,36
+C0389,Francisco Guzmán Chávez,Casado,Asalariado,15000,2025-09-26,Sucursal,Jalisco,1992-11-03,Ok,33
+C0667,Francisco Gutiérrez Álvarez,Divorciado,Independiente,6400,2016-06-04,Sucursal,Jalisco,1951-11-22,Ok,65
+C0388,Brenda Díaz Ramírez,Divorciado,Hogar,7300,2016-01-12,Sucursal,Jalisco,1953-10-18,Ok,62
+C0726,Alejandra Juárez Velázquez,Casado,Asalariado,11500,2021-01-12,App,Ciudad de México,1993-12-11,Ok,27
+C0391,Daniela Mendoza Flores,Soltero,Estudiante,3800,2013-01-09,Sucursal,Yucatán,1992-06-09,Ok,21
+C0427,Monserrat Moreno Juárez,Casado,Asalariado,21200,2023-08-13,Sucursal,Nuevo León,1983-11-05,Ok,40
+C0353,Andrea Cruz Castillo,Soltero,Asalariado,10400,2023-11-12,Sucursal,Estado de México,1999-05-14,Ok,24
+C0194,Arturo García Rodríguez,Soltero,Estudiante,3500,2018-11-17,Sucursal,Jalisco,1996-10-09,Ok,22
+C0236,Andrea Cruz García,Casado,Asalariado,31000,2012-07-25,Sucursal,Guanajuato,1964-01-23,Ok,49
+C0643,Ximena Gómez Jiménez,Casado,Asalariado,10100,2023-06-04,App,Nuevo León,1977-06-05,Ok,46
+C0835,Pablo Gutiérrez Aguilar,Casado,Asalariado,27700,2023-02-18,Sucursal,Estado de México,1985-07-18,Ok,38
+C0056,Antonio Reyes Ramos,Casado,Asalariado,10300,2024-02-02,App,Ciudad de México,1974-07-02,Ok,50
+C0965,Mariana Moreno Castillo,Unión libre,Asalariado,21800,2020-03-08,App,Yucatán,1983-08-31,Ok,37
+C0097,Claudia Ramírez Chávez,Soltero,Asalariado,17100,2017-01-16,Sucursal,Quintana Roo,1984-09-10,Ok,32
+C0142,Manuel Herrera Sánchez,Soltero,Asalariado,32200,2024-10-01,App,Ciudad de México,1997-06-28,Ok,27
+C0916,Rodrigo Álvarez Sánchez,Casado,Asalariado,21300,2022-12-31,App,Ciudad de México,1981-12-17,Ok,41
+C0861,Héctor Díaz Domínguez,Casado,Asalariado,9200,2021-08-11,App,Guanajuato,1989-06-07,Ok,32
+C0543,Iván García Álvarez,Casado,Asalariado,32800,2014-11-16,Sucursal,Nuevo León,1987-09-26,Ok,27
+C0570,Sofía Juárez Torres,Unión libre,Estudiante,7900,2024-04-15,Sucursal,Guanajuato,2006-03-31,Ok,18
+C0121,Francisco Rivera Hernández,Soltero,Estudiante,10000,2016-01-07,Sucursal,Jalisco,1994-10-27,Ok,21
+C0599,Mariana Álvarez Velázquez,Casado,Asalariado,34700,2024-01-31,Sucursal,Estado de México,1978-07-31,Ok,46
+C0510,Carlos Herrera Ramos,Casado,Asalariado,19700,2022-03-03,App,Quintana Roo,1993-04-15,Ok,29
+C0063,Mateo Castillo Vargas,Divorciado,Independiente,16400,2023-12-25,Sucursal,Jalisco,1975-06-29,Ok,48
+C0759,Juan Rojas Flores,Soltero,Hogar,6400,2014-12-29,Sucursal,Puebla,1982-12-08,Ok,32
+C0955,Sebastián Álvarez Rodríguez,Casado,Independiente,11600,2023-10-15,Sucursal,Querétaro,1988-01-14,Ok,36
+C0415,Gabriela Ramírez Ortiz,Casado,Asalariado,14900,2015-11-07,Sucursal,Ciudad de México,1983-11-07,Ok,32
+C0004,Miguel Vargas Ortiz,Casado,Asalariado,20800,2023-08-14,App,Guanajuato,1996-08-04,Ok,27
+C0059,Alejandra Martínez Vázquez,Casado,Asalariado,,2023-09-19,App,Querétaro,1982-06-20,Ingreso no declarado,41
+C0224,Monserrat Chávez Reyes,Casado,Asalariado,17000,2023-11-28,Sucursal,Jalisco,1989-01-23,Ok,35
+C0999,Lucía Rivera Hernández,Soltero,Asalariado,26600,2021-07-07,Sucursal,Jalisco,1981-07-29,Ok,40
+C0102,Laura Juárez Hernández,Unión libre,Hogar,7300,2015-10-15,Sucursal,Nuevo León,1992-05-03,Ok,23
+C0720,Sofía Cruz Juárez,Soltero,Asalariado,17700,2025-05-14,App,Nuevo León,1989-05-16,Ok,36
+C0222,Diana Reyes Hernández,Casado,Hogar,5400,2015-07-19,Sucursal,Guanajuato,1988-12-14,Ok,27
+C0730,Fernanda Méndez Flores,Soltero,Hogar,9000,2025-03-03,App,Jalisco,1982-09-25,Ok,42
+C0005,Adriana Vargas González,Casado,Asalariado,18200,2022-08-09,App,Querétaro,1986-04-26,Ok,36
+C0053,Raúl Flores Morales,Soltero,Estudiante,4500,2013-06-15,Sucursal,Nuevo León,1981-04-07,Ok,32
+C0018,Adriana Méndez López,Divorciado,Asalariado,29000,2021-07-08,App,Guanajuato,1978-11-05,Ok,43
+C0744,Carlos Castillo Guzmán,Casado,Independiente,31900,2021-03-21,Sucursal,Estado de México,1974-12-26,Ok,46
+C0909,Valeria Juárez Moreno,Casado,Estudiante,4700,2022-10-20,Sucursal,Estado de México,1973-04-26,Ok,49
+C0307,Rodrigo Chávez Mendoza,Casado,Independiente,50900,2024-02-24,App,Ciudad de México,1987-05-27,Ok,37
+C0663,Javier Pérez Ruiz,Casado,Asalariado,22400,2018-02-21,Sucursal,Ciudad de México,1984-09-05,Ok,33
+C0156,Mateo Ruiz Juárez,Soltero,Asalariado,14800,2023-12-15,Sucursal,Estado de México,1972-08-26,Ok,51
+C0799,Miguel Reyes Aguilar,Soltero,Asalariado,58200,2018-05-06,Sucursal,Ciudad de México,1990-11-23,Ok,27
+C0677,Diana Torres Sánchez,Unión libre,Estudiante,7300,2021-03-18,App,Estado de México,1968-11-19,Ok,52
+C0752,Miguel García Pérez,Casado,Hogar,7900,2014-07-09,Sucursal,Guanajuato,1980-12-04,Ok,34
+C0249,Juan García Rojas,Soltero,Independiente,3500,2020-05-30,App,Nuevo León,1986-02-02,Ok,34
+C0250,Karla Velázquez Rivera,Casado,Hogar,9200,2024-10-19,Sucursal,Ciudad de México,1963-12-01,Ok,61
+C0359,María Ramos Guzmán,Soltero,Independiente,3500,2017-06-26,Sucursal,Ciudad de México,1971-08-05,Ok,46
+C0583,Regina Martínez Gutiérrez,Unión libre,Asalariado,17700,2013-10-24,Sucursal,Quintana Roo,1992-03-02,Ok,22
+C0431,Jorge García Rivera,Divorciado,Independiente,20700,2016-01-03,Sucursal,Quintana Roo,1976-11-07,Ok,39
+C0442,Mónica Gutiérrez Ortiz,Unión libre,Independiente,17800,2024-06-08,Sucursal,Nuevo León,1975-03-20,Ok,49
+C0816,Óscar Hernández Álvarez,Casado,Asalariado,13200,2018-03-23,Sucursal,Querétaro,1985-03-10,Ok,33
+C0847,Valeria Medina Jiménez,Soltero,Asalariado,21800,2024-01-20,Sucursal,Estado de México,1987-05-07,Ok,37
+C0031,Lucía Castillo Morales,Viudo,Asalariado,,2025-02-22,Sucursal,Estado de México,1965-07-28,Ingreso no declarado,60
+C0282,Sofía Romero Rivera,Unión libre,Hogar,4700,2025-11-15,App,Quintana Roo,1980-08-10,Ok,45
+C0675,Elena Mendoza Pérez,Soltero,Asalariado,32000,2013-06-09,Sucursal,Yucatán,,Ok,
+C0966,Adriana Castro Hernández,Unión libre,Independiente,29500,2018-08-04,Sucursal,Ciudad de México,1981-04-20,Ok,37
+C0118,Héctor Medina Pérez,Casado,Independiente,57100,2020-03-27,Sucursal,Nuevo León,1981-12-03,Ok,38
+C0527,Ximena Martínez Rojas,Soltero,Independiente,96700,2024-10-31,App,Jalisco,1992-05-17,Ok,32
+C0117,Leticia Torres Pérez,Unión libre,Asalariado,17600,2016-01-17,Sucursal,Nuevo León,1992-03-13,Ok,24
+C0519,Jorge Guzmán González,Casado,Independiente,14900,2018-08-04,Sucursal,Jalisco,1975-12-09,Ok,43
+C0665,Alejandra Moreno Domínguez,Casado,Asalariado,15800,2021-05-24,Sucursal,Quintana Roo,1984-02-25,Ok,37
+C0292,Andrea Álvarez Ramos,Divorciado,Independiente,18100,2025-08-27,Sucursal,Ciudad de México,1992-01-20,Ok,34
+C0028,Diego Gutiérrez Velázquez,Divorciado,Asalariado,27300,2020-06-09,Sucursal,Ciudad de México,1996-11-11,Ok,24
+C0382,Sofía Castillo García,Casado,Jubilado,21900,2016-06-26,Sucursal,Jalisco,1943-02-07,Ok,73
+C0308,Antonio Guzmán Guzmán,Casado,Asalariado,12300,2022-08-08,App,Puebla,1986-06-12,Ok,36
+C0595,María Chávez Aguilar,Casado,Independiente,10300,2024-12-09,App,Yucatán,1990-05-18,Ok,35
+C0201,Fernanda Moreno Ortiz,Divorciado,Asalariado,39200,2022-07-24,App,Nuevo León,1988-10-18,Ok,34
+C0571,Juan Moreno Cruz,Unión libre,Independiente,16400,2014-07-03,Sucursal,Jalisco,1972-01-25,Ok,42
+C0386,Diana Domínguez Mendoza,Casado,Asalariado,28500,2012-06-13,Sucursal,Guanajuato,1971-08-31,Ok,41
+C0713,Emmanuel Flores Díaz,Casado,Asalariado,5700,2024-07-27,Sucursal,Ciudad de México,1994-10-13,Ok,30
+C0661,Karla Cruz Castro,Soltero,Independiente,,2023-06-12,App,Quintana Roo,1969-07-02,Ingreso no declarado,54
+C0904,Rodrigo Flores Domínguez,Unión libre,Asalariado,13100,2025-04-10,App,Guanajuato,1981-10-04,Ok,44
+C0796,Alejandra González Herrera,Soltero,Hogar,10500,2023-07-17,App,Ciudad de México,1985-04-16,Ok,38
+C0592,María Ruiz Mendoza,Unión libre,Independiente,13300,2012-08-02,Sucursal,Jalisco,1993-09-21,Ok,19
+C0315,Arturo Álvarez Morales,Casado,Asalariado,11600,2025-09-11,Sucursal,Yucatán,1964-01-17,Ok,62
+C0596,Daniel López Reyes,Unión libre,Independiente,40900,2013-09-29,Sucursal,Ciudad de México,1975-04-05,Ok,38
+C0281,Carlos García Ruiz,Casado,Asalariado,29300,2022-08-13,App,Ciudad de México,1991-05-30,Ok,31
+C0969,Fernanda García Chávez,Casado,Asalariado,21500,2018-02-27,Sucursal,Guanajuato,1972-04-09,Ok,46
+C0757,Paola González Reyes,Divorciado,Asalariado,18700,2024-01-23,Sucursal,Estado de México,1982-12-12,Ok,41
+C0354,Santiago Ramírez Torres,Casado,Asalariado,30000,2022-03-06,Sucursal,Estado de México,1976-09-23,Ok,45
+C0644,Iván Méndez Rodríguez,Viudo,Jubilado,10300,2013-10-13,Sucursal,Nuevo León,1960-12-08,Ok,53
+C0208,Guadalupe Castro Castillo,Soltero,Asalariado,9900,2024-05-05,Sucursal,Estado de México,1991-06-01,Ok,33
+C0380,Luis Morales Rojas,Divorciado,Hogar,11900,2021-03-16,App,Querétaro,1990-01-23,Ok,31
+C0855,Diego Rivera Juárez,Soltero,Asalariado,17300,2023-12-14,App,Guanajuato,2000-09-04,Ok,23
+C0413,Mateo Flores Sánchez,Divorciado,Asalariado,37600,2012-08-25,Sucursal,Nuevo León,1974-08-18,Ok,38
+C0793,Santiago Medina Morales,Soltero,Asalariado,20600,2012-06-16,Sucursal,Querétaro,1967-05-27,Ok,45
+C0024,Gabriela Hernández Velázquez,Soltero,Asalariado,20400,2023-08-04,App,Yucatán,1992-02-24,Ok,31
+C0341,Guadalupe Cruz López,Divorciado,Independiente,16300,2012-02-07,Sucursal,Querétaro,1980-04-29,Ok,32
+C0694,Raúl Moreno Juárez,Casado,Asalariado,11700,2024-07-26,Sucursal,Querétaro,1982-11-09,Ok,42
+C0716,Diana Ramos Domínguez,Casado,Asalariado,14000,2017-06-16,Sucursal,Estado de México,1982-11-11,Ok,35
+C0155,Gabriela Rivera Juárez,Divorciado,Asalariado,22800,2022-12-30,App,Nuevo León,1999-06-17,Ok,24
+C0859,Javier Sánchez Juárez,Divorciado,Asalariado,18500,2018-11-21,Sucursal,Nuevo León,1979-11-27,Ok,39
+C0627,Camila García Domínguez,Casado,Independiente,12100,2014-07-18,Sucursal,Jalisco,1989-08-30,Ok,25
+C0853,Emiliano Castro Cruz,Casado,Asalariado,35900,2025-07-08,App,Guanajuato,1989-09-23,Ok,36
+C0548,Laura Castro Rivera,Casado,Asalariado,14400,2015-06-17,Sucursal,Estado de México,1991-10-18,Ok,24
+C0787,Itzel Castro Cruz,Casado,Asalariado,27100,2022-12-15,App,Quintana Roo,1996-12-13,Ok,26
+C0323,Elena Rojas Moreno,Unión libre,Asalariado,43100,2024-04-04,App,Puebla,1975-02-20,Ok,49
+C0542,Miguel López Domínguez,Unión libre,Asalariado,30700,2023-06-09,App,Nuevo León,1983-09-18,Ok,40
+C0601,Fernando Medina Álvarez,Casado,Independiente,18600,2017-04-01,Sucursal,Puebla,1972-03-06,Ok,45
+C0893,Antonio Gómez Moreno,Casado,Asalariado,31800,2012-07-30,Sucursal,Ciudad de México,1984-02-24,Ok,28
+C0568,Fernando López Castillo,Casado,Asalariado,21700,2022-11-25,App,Querétaro,1981-11-20,Ok,41
+C0263,Roberto Aguilar Reyes,Viudo,Jubilado,9800,2024-03-14,App,Guanajuato,1959-09-21,Ok,64
+C0458,Alejandro Rivera Rivera,Casado,Independiente,14700,2025-07-19,App,Puebla,1995-11-28,Ok,30
+C0083,Brenda Méndez Jiménez,Soltero,Asalariado,6400,2019-05-31,Sucursal,Querétaro,1983-04-19,Ok,36
+C0566,Regina Guzmán García,Casado,Hogar,11200,2016-02-23,Sucursal,Ciudad de México,1962-07-19,Ok,54
+C0408,Elena Castro Mendoza,Soltero,Independiente,15100,2018-07-16,Sucursal,Estado de México,1970-06-29,Ok,48
+C0453,Gabriela Torres Díaz,Unión libre,Independiente,21900,2012-08-21,Sucursal,Nuevo León,1969-02-25,Ok,43
+C0465,Rosa Martínez Castillo,Casado,Hogar,6400,2014-06-27,Sucursal,Querétaro,1985-02-03,Ok,29
+C0692,Antonio Gutiérrez Gutiérrez,Casado,Independiente,58400,2023-07-27,App,Puebla,1987-10-19,Ok,36
+C0334,Manuel Pérez Sánchez,Unión libre,Asalariado,24800,2020-07-25,App,Estado de México,1976-02-16,Ok,44
+C0011,Mateo Domínguez Cruz,Soltero,Asalariado,22400,2024-11-12,Sucursal,Estado de México,1988-10-07,Ok,36
+C0471,Óscar Gómez Velázquez,Casado,Asalariado,15000,2023-11-07,Sucursal,Estado de México,1985-05-06,Ok,39
+C0033,Fernanda Morales Rivera,Casado,Asalariado,4200,2022-12-17,Sucursal,Nuevo León,1993-12-02,Ok,29
+C0715,Sebastián Pérez Ramírez,Casado,Asalariado,24100,2024-09-03,App,Guanajuato,1987-01-20,Ok,38
+C0876,Patricia Pérez Gutiérrez,Unión libre,Independiente,7500,2024-03-03,Sucursal,Estado de México,1984-03-16,Ok,40
+C0383,Jorge Chávez Herrera,Divorciado,Asalariado,16800,2016-11-06,Sucursal,Ciudad de México,,Ok,
+C0604,Claudia Juárez Chávez,Unión libre,Asalariado,9000,2014-06-21,Sucursal,Estado de México,1972-01-31,Ok,42
+C0554,Javier Méndez Domínguez,Casado,Asalariado,8600,2023-06-30,Sucursal,Yucatán,1976-09-16,Ok,47
+C0900,Juan Herrera Sánchez,Unión libre,Asalariado,18600,2019-11-21,Sucursal,Puebla,1991-11-03,Ok,28
+C0908,Eduardo Díaz Rodríguez,Soltero,Asalariado,11500,2021-12-27,App,Guanajuato,1985-07-02,Ok,36
+C0379,Mateo Chávez Pérez,Casado,Asalariado,16900,2024-11-24,Sucursal,Puebla,1995-06-25,Ok,29
+C0090,Claudia Cruz Romero,Unión libre,Asalariado,33100,2024-10-21,Sucursal,Jalisco,1970-07-04,Ok,54
+C0214,Adriana Álvarez Jiménez,Soltero,Asalariado,32300,2017-12-27,Sucursal,Quintana Roo,1982-11-27,Ok,35
+C0837,Diana Gutiérrez Velázquez,Soltero,Independiente,121600,2022-08-03,App,Yucatán,1983-08-08,Ok,39
+C0134,Héctor García Vargas,Casado,Asalariado,31000,2016-02-04,Sucursal,Ciudad de México,1978-08-05,Ok,38
+C0347,Gabriela Hernández Ramos,Soltero,Asalariado,13000,2016-11-01,Sucursal,Estado de México,1994-01-29,Ok,23
+C0008,Mónica Ramírez Gómez,Casado,Estudiante,3500,2025-01-13,App,Puebla,1994-12-21,Ok,30
+C0615,Francisco Rojas Castro,Casado,Asalariado,14000,2016-02-26,Sucursal,Nuevo León,1967-04-30,Ok,49
+C0321,Sebastián Medina Torres,Casado,Asalariado,26600,2024-07-02,Sucursal,Jalisco,1980-02-04,Ok,44
+C0781,José Juárez Ramírez,Casado,Asalariado,9200,2024-07-08,App,Yucatán,1988-03-25,Ok,36
+C0188,Verónica González Romero,Viudo,Jubilado,12900,2023-08-31,App,Querétaro,1955-10-22,Ok,68
+C0305,Valeria Chávez Juárez,Casado,Jubilado,9300,2014-08-16,Sucursal,Querétaro,,Ok,
+C0032,Verónica Torres Medina,Divorciado,Asalariado,15700,2024-02-23,App,Jalisco,1984-08-24,Ok,39
+C0610,Mariana Aguilar Rivera,Casado,Jubilado,16900,2019-07-07,Sucursal,Ciudad de México,1961-10-13,Ok,58
+C0241,Antonio López Chávez,Soltero,Asalariado,12200,2023-08-23,App,Guanajuato,1994-01-06,Ok,30
+C0725,Paola Reyes Romero,Soltero,Asalariado,13500,2019-12-09,Sucursal,Yucatán,1996-09-21,Ok,23
+C0175,Arturo Guzmán Jiménez,Unión libre,Independiente,17500,2017-10-17,Sucursal,Ciudad de México,1975-03-09,Ok,43
+C0246,Gabriela Romero Ortiz,Casado,Jubilado,13000,2023-01-24,Sucursal,Ciudad de México,1952-01-03,Ok,71
+C0057,Arturo Guzmán Vázquez,Casado,Asalariado,29500,2023-04-19,App,Nuevo León,1993-01-30,Ok,30
+C0749,Valeria Castro Sánchez,Soltero,Asalariado,27800,2016-06-08,Sucursal,Nuevo León,1986-01-14,Ok,30
+C0146,Roberto Martínez Rivera,Casado,Asalariado,12300,2017-12-29,Sucursal,Ciudad de México,1992-10-17,Ok,25
+C0091,Rosa Velázquez Rodríguez,Soltero,Estudiante,7600,2022-09-22,App,Jalisco,1996-07-29,Ok,26
+C0393,Brenda Díaz Hernández,Casado,Asalariado,17600,2022-06-15,App,Nuevo León,1987-09-01,Ok,35
+C0311,Diego Pérez Rojas,Casado,Asalariado,10900,2024-04-20,App,Guanajuato,1999-05-15,Ok,25
+C0360,Camila Ramos Ramos,Casado,Independiente,24200,2015-01-08,Sucursal,Ciudad de México,1991-06-17,Ok,24
+C0094,Mónica Jiménez Jiménez,Casado,Independiente,29400,2023-11-04,App,Puebla,1981-08-16,Ok,42
+C0690,Guadalupe Domínguez Rojas,Divorciado,Asalariado,21800,2024-08-04,App,Jalisco,1977-10-28,Ok,47
+C0748,Manuel Morales Rojas,Unión libre,Asalariado,16000,2022-02-05,Sucursal,Ciudad de México,1998-06-26,Ok,24
+C0377,Claudia Vázquez García,Casado,Asalariado,23900,2022-08-03,App,Yucatán,1986-06-19,Ok,36
+C0244,Verónica Rivera Domínguez,Casado,Asalariado,5100,2023-03-14,App,Ciudad de México,1978-09-25,Ok,44
+C0820,Francisco Juárez Vázquez,Casado,Asalariado,16000,2014-12-31,Sucursal,Ciudad de México,1985-08-14,Ok,29
+C0088,Santiago Ramírez Ruiz,Casado,Independiente,9200,2013-05-21,Sucursal,Nuevo León,1993-07-29,Ok,20
+C0215,Jorge Guzmán Domínguez,Casado,Asalariado,15600,2023-11-02,App,Puebla,1995-01-05,Ok,29
+C0976,Sebastián Álvarez Herrera,Soltero,Asalariado,21600,2023-01-19,Sucursal,Querétaro,1978-04-22,Ok,45
+C0174,Emiliano Rojas Álvarez,Casado,Asalariado,12700,2013-10-27,Sucursal,Nuevo León,1974-04-28,Ok,39
+C0426,Luis Castro Reyes,Casado,Asalariado,11800,2024-01-08,App,Guanajuato,1990-09-24,Ok,33
+C0959,Sofía Chávez Rivera,Soltero,Hogar,6500,2022-06-11,Sucursal,Ciudad de México,1972-09-07,Ok,50
+C0119,Ana Ruiz Jiménez,Soltero,Hogar,3900,2021-01-04,Sucursal,Querétaro,1972-08-18,Ok,48
+C0120,Verónica Álvarez Ortiz,Soltero,Asalariado,12300,2025-06-05,App,Estado de México,1999-07-20,Ok,26
+C0888,Elena Morales Ramos,Casado,Hogar,7200,2020-06-03,App,Quintana Roo,1990-05-17,Ok,30
+C0001,Lucía Castillo Flores,Divorciado,Asalariado,27900,2023-01-03,App,Guanajuato,1995-05-29,Ok,28
+C0395,Carlos Medina Guzmán,Unión libre,Asalariado,18600,2023-10-06,App,Querétaro,1982-09-09,Ok,41
+C0402,Pablo Pérez Ramírez,Casado,Jubilado,9800,2023-02-08,Sucursal,Yucatán,1959-06-05,Ok,64
+C0405,Daniela González Herrera,Soltero,Independiente,14000,2020-06-24,App,Nuevo León,1955-09-26,Ok,65
+C0614,Valeria Gutiérrez Velázquez,Casado,Asalariado,10900,2017-12-20,Sucursal,Guanajuato,1982-01-12,Ok,36
+C0621,Emmanuel Torres Castillo,Divorciado,Asalariado,8500,2023-12-01,App,Quintana Roo,1985-11-09,Ok,38
+C0163,Verónica Ortiz Cruz,Unión libre,Independiente,10700,2012-01-19,Sucursal,Ciudad de México,1982-06-25,Ok,30
+C0115,María Morales García,Unión libre,Asalariado,8900,2012-12-14,Sucursal,Estado de México,1988-04-27,Ok,25
+C0151,Lucía Herrera Gómez,Casado,Asalariado,18300,2025-07-31,App,Querétaro,1990-12-29,Ok,35
+C0586,Antonio Aguilar Velázquez,Soltero,Independiente,9700,2023-04-10,Sucursal,Nuevo León,1972-09-19,Ok,51
+C0578,Miguel Cruz Rodríguez,Casado,Hogar,3900,2024-10-08,App,Querétaro,1991-06-14,Ok,33
+C0724,Emmanuel Álvarez Moreno,Soltero,Independiente,25900,2018-10-01,Sucursal,Ciudad de México,1988-02-09,Ok,31
+C0369,Valeria Rojas Aguilar,Soltero,Independiente,30300,2017-08-03,Sucursal,Jalisco,1984-08-03,Ok,33
+C0544,Carlos Guzmán Vázquez,Casado,Asalariado,10700,2022-06-13,App,Yucatán,1981-04-06,Ok,41
+C0478,Rodrigo García Reyes,Casado,Asalariado,19000,2021-05-09,Sucursal,Ciudad de México,1973-01-10,Ok,48
+C0533,Mateo Ortiz Jiménez,Casado,Asalariado,37200,2021-03-26,Sucursal,Jalisco,1977-05-24,Ok,44
+C0982,Manuel Vázquez Ruiz,Casado,Independiente,6600,2024-04-06,App,Querétaro,1987-01-03,Ok,37
+C0588,Paola Pérez García,Casado,Asalariado,19900,2020-12-22,Sucursal,Ciudad de México,1986-01-14,Ok,35
+C0953,Ximena López Hernández,Unión libre,Asalariado,22800,2023-12-02,Sucursal,Estado de México,1991-10-25,Ok,32
+C0259,Eduardo Medina Reyes,Casado,Asalariado,36900,2021-10-22,Sucursal,Puebla,1977-09-24,Ok,44
+C0914,Mariana Sánchez Juárez,Casado,Independiente,13300,2015-07-05,Sucursal,Ciudad de México,1993-03-02,Ok,22
+C0136,Luis Álvarez Ruiz,Casado,Asalariado,26800,2022-03-05,App,Nuevo León,1979-06-10,Ok,43
+C0921,Verónica Pérez Rojas,Casado,Asalariado,14500,2023-06-14,App,Guanajuato,1983-11-30,Ok,40
+C0633,Manuel Reyes Ruiz,Casado,Independiente,3700,2025-02-14,App,Nuevo León,1994-02-20,Ok,31
+C0795,Arturo Juárez Sánchez,Unión libre,Asalariado,11200,2025-07-06,Sucursal,Jalisco,1992-10-09,Ok,33
+C0502,Regina Vargas Díaz,Casado,Asalariado,9800,2024-09-06,Sucursal,Guanajuato,1991-04-16,Ok,33
+C0539,Monserrat Juárez Rodríguez,Soltero,Asalariado,9800,2022-09-18,Sucursal,Estado de México,2002-10-15,Ok,20
+C0652,José Moreno Ramírez,Casado,Asalariado,31100,2013-01-16,Sucursal,Ciudad de México,1986-10-12,Ok,26
+C0344,Andrea García González,Casado,Asalariado,20900,2024-11-01,App,Puebla,1971-03-27,Ok,54
+C0673,Emiliano Hernández Cruz,Casado,Independiente,,2024-04-18,App,Nuevo León,1986-02-16,Ingreso no declarado,38
+C0620,Regina Mendoza García,Casado,Independiente,11100,2016-04-28,Sucursal,Estado de México,1981-05-18,Ok,35
+C0294,Adriana Velázquez Méndez,Unión libre,Asalariado,21700,2025-07-30,Sucursal,Estado de México,1987-12-27,Ok,38
+C0365,Lucía Martínez Ruiz,Casado,Asalariado,21200,2022-02-12,Sucursal,Jalisco,1979-04-03,Ok,43
+C0626,Eduardo Medina Flores,Unión libre,Independiente,17400,2020-01-02,Sucursal,Estado de México,1970-11-23,Ok,49
+C0015,Monserrat Guzmán Jiménez,Soltero,Independiente,11300,2018-03-12,Sucursal,Jalisco,1996-03-27,Ok,22
+C0087,Lucía Juárez Romero,Casado,Asalariado,32900,2025-06-25,App,Quintana Roo,1980-05-23,Ok,45
+C0371,Lucía Moreno Castro,Soltero,Asalariado,9200,2018-07-26,Sucursal,Jalisco,1991-07-30,Ok,27
+C0166,Diego Jiménez Hernández,Casado,Asalariado,18900,2025-08-07,App,Nuevo León,1995-05-17,Ok,30
+C0877,Javier García Vargas,Soltero,Asalariado,14000,2023-12-13,Sucursal,Estado de México,1968-10-26,Ok,55
+C0336,Lucía Flores Rodríguez,Casado,Asalariado,36700,2012-02-16,Sucursal,Yucatán,1991-06-03,Ok,21
+C0060,Karla Castillo Rojas,Unión libre,Independiente,41900,2014-08-11,Sucursal,Jalisco,1979-04-26,Ok,35
+C0355,Brenda Vargas Morales,Soltero,Asalariado,21600,2025-04-05,App,Querétaro,1990-06-16,Ok,35
+C0425,Emmanuel Romero Álvarez,Soltero,Asalariado,40600,2025-11-17,Sucursal,Ciudad de México,1966-04-05,Ok,60
+C0293,Arturo Castillo Chávez,Soltero,Asalariado,31100,2024-08-05,App,Quintana Roo,1982-07-06,Ok,42
+C0042,Jorge López Torres,Casado,Asalariado,7100,2022-10-30,App,Puebla,1985-07-03,Ok,37
+C0330,Emmanuel Gutiérrez García,Soltero,Asalariado,25300,2014-06-01,Sucursal,Jalisco,1976-07-13,Ok,38
+C0430,Sofía Herrera Torres,Casado,Independiente,6800,2012-02-07,Sucursal,Ciudad de México,1985-05-06,Ok,27
+C0080,Guadalupe Reyes Ruiz,Casado,Asalariado,19300,2018-06-02,Sucursal,Estado de México,1993-03-29,Ok,25
+C0029,Sebastián Sánchez Hernández,Casado,Estudiante,4400,2022-08-11,Sucursal,Ciudad de México,1996-04-28,Ok,26
+C0255,Ricardo González Ramírez,Soltero,Asalariado,18900,2014-12-31,Sucursal,Yucatán,1981-12-03,Ok,33
+C0747,Fernanda Castro Mendoza,Viudo,Jubilado,12800,2017-03-12,Sucursal,Jalisco,1963-01-30,Ok,54
+C0459,Lucía Vargas Cruz,Unión libre,Asalariado,6200,2023-07-20,Sucursal,Estado de México,1982-08-17,Ok,41
+C0384,Regina Moreno Martínez,Soltero,Asalariado,23800,2024-12-15,App,Quintana Roo,1987-12-26,Ok,37
+C0314,Guadalupe Reyes Cruz,Soltero,Asalariado,7900,2023-11-20,App,Puebla,1999-05-27,Ok,24
+C0085,Gerardo Ramos Herrera,Soltero,Independiente,34000,2020-05-10,Sucursal,Estado de México,1992-12-21,Ok,27
+C0575,Ricardo Romero Domínguez,Casado,Asalariado,8500,2024-09-23,App,Jalisco,1989-07-21,Ok,35
+C0137,Jorge Vázquez González,Unión libre,Independiente,11500,2025-06-17,App,Jalisco,1989-02-07,Ok,36
+C0112,Diego Ruiz López,Casado,Independiente,27200,2022-07-17,App,Yucatán,1998-02-07,Ok,24
+C0195,Paola Aguilar Pérez,Casado,Independiente,13600,2022-12-17,Sucursal,Quintana Roo,1981-08-30,Ok,41
+C0179,Laura Méndez Juárez,Soltero,Independiente,38200,2025-04-22,App,Puebla,1988-02-24,Ok,37
+C0881,Jorge Gutiérrez González,Soltero,Asalariado,12300,2016-09-01,Sucursal,Querétaro,1998-06-03,Ok,18
+C0130,Karla Velázquez Castro,Divorciado,Asalariado,19900,2023-03-08,Sucursal,Querétaro,1983-12-28,Ok,39
+C0338,Carlos González López,Soltero,Independiente,13400,2025-03-11,Sucursal,Querétaro,2000-11-13,Ok,24
+C0609,Adriana Aguilar Herrera,Divorciado,Asalariado,10900,2025-01-22,App,Yucatán,1978-05-12,Ok,47
+C0125,Karla Ramos Ruiz,Unión libre,Asalariado,31200,2022-08-22,Sucursal,Estado de México,1971-06-04,Ok,51
+C0954,Roberto Ortiz Díaz,Casado,Asalariado,29900,2019-06-03,Sucursal,Estado de México,1986-03-19,Ok,33
+C0227,Ximena Flores Moreno,Casado,Hogar,6700,2014-06-18,Sucursal,Ciudad de México,1976-03-06,Ok,38
+C0269,Sebastián Velázquez Moreno,Unión libre,Estudiante,4700,2022-09-24,Sucursal,Nuevo León,1987-07-08,Ok,35
+C0971,Luis Rodríguez Domínguez,Divorciado,Jubilado,16200,2024-11-11,App,Yucatán,1962-12-16,Ok,62
+C0994,Ana Ramírez Ruiz,Casado,Independiente,16700,2022-02-03,App,Ciudad de México,1995-06-29,Ok,27
+C0104,Juan Torres García,Soltero,Independiente,18600,2015-01-23,Sucursal,Jalisco,1977-01-04,Ok,38
+C0594,Emiliano Martínez Mendoza,Soltero,Asalariado,22200,2019-01-06,Sucursal,Estado de México,1990-01-25,Ok,29
+C0874,Ricardo Juárez Ortiz,Unión libre,Asalariado,26200,2023-11-25,App,Guanajuato,1996-06-26,Ok,27
+C0654,Gerardo Ortiz Ramírez,Casado,Asalariado,14500,2019-03-26,Sucursal,Yucatán,1989-07-02,Ok,30
+C0228,Verónica Herrera Cruz,Casado,Asalariado,19200,2015-02-20,Sucursal,Nuevo León,1968-09-25,Ok,46
+C0879,Elena Guzmán Medina,Unión libre,Independiente,28400,2022-10-09,Sucursal,Estado de México,1974-03-01,Ok,49
+C0302,Mateo Vargas Reyes,Unión libre,Asalariado,34200,2015-08-01,Sucursal,Jalisco,1971-10-19,Ok,44
+C0276,Raúl Ortiz Pérez,Soltero,Asalariado,22300,2013-10-27,Sucursal,Yucatán,1988-07-09,Ok,25
+C0127,Emmanuel Díaz Velázquez,Soltero,Asalariado,,2020-03-28,Sucursal,Nuevo León,1995-05-04,Ingreso no declarado,25
+C0406,Karla Rodríguez González,Casado,Independiente,85600,2021-02-03,App,Ciudad de México,1987-11-18,Ok,33
+C0885,Itzel Torres Romero,Soltero,Asalariado,9700,2025-09-30,App,Jalisco,2001-10-27,Ok,24
+C0037,Eduardo Romero Castillo,Soltero,Asalariado,27600,2019-03-21,Sucursal,Ciudad de México,1985-07-26,Ok,34
+C0140,Óscar Díaz Morales,Casado,Independiente,12600,2014-04-24,Sucursal,Ciudad de México,1992-02-10,Ok,22
+C0304,Ana Castro Moreno,Casado,Jubilado,6000,2021-12-20,Sucursal,Jalisco,1957-06-11,Ok,65
+C0268,Valeria Méndez Velázquez,Unión libre,Independiente,39600,2017-06-08,Sucursal,Ciudad de México,1969-02-22,Ok,48
+C0534,Pablo Moreno Castillo,Unión libre,Asalariado,28100,2024-03-24,Sucursal,Guanajuato,1979-03-25,Ok,45
+C0546,Paola Moreno Aguilar,Soltero,Asalariado,16600,2023-08-10,App,Jalisco,2001-06-25,Ok,22
+C0213,Claudia Martínez Rivera,Casado,Asalariado,24000,2024-11-25,Sucursal,Quintana Roo,1999-08-22,Ok,25
+C0469,Mariana Rodríguez Álvarez,Casado,Estudiante,5000,2022-09-20,App,Jalisco,1997-07-17,Ok,25
+C0199,Emiliano Castillo Moreno,Casado,Independiente,18900,2018-08-06,Sucursal,Jalisco,1981-12-27,Ok,37
+C0528,Daniel Romero Torres,Unión libre,Asalariado,19300,2013-04-07,Sucursal,Jalisco,1977-09-16,Ok,36
+C0791,Regina Vargas Jiménez,Casado,Estudiante,6500,2019-10-17,App,Quintana Roo,1988-08-15,Ok,31
+C0242,Paola Ruiz Sánchez,Unión libre,Asalariado,28600,2014-01-23,Sucursal,Jalisco,1983-02-03,Ok,31
+C0343,Sebastián Cruz Martínez,Unión libre,Independiente,9800,2015-03-21,Sucursal,Ciudad de México,1981-09-01,Ok,34
+C0550,Diana Álvarez Vargas,Soltero,Independiente,18600,2021-02-16,App,Yucatán,1986-04-25,Ok,35
+C0387,Daniel Guzmán Castillo,Soltero,Hogar,8900,2022-01-23,App,Nuevo León,1996-05-12,Ok,26
+C0854,Juan Ramos Romero,Soltero,Asalariado,42200,2025-05-20,App,Estado de México,1982-12-08,Ok,42
+C0207,Valeria Guzmán García,Soltero,Asalariado,15800,2024-05-27,Sucursal,Querétaro,1998-09-06,Ok,26
+C0296,Rodrigo Díaz Rodríguez,Casado,Hogar,4500,2022-06-23,App,Ciudad de México,1982-12-06,Ok,40
+C0768,Gerardo Morales Romero,Unión libre,Asalariado,22500,2017-06-27,Sucursal,Ciudad de México,1986-01-23,Ok,31
+C0074,Camila González Moreno,Soltero,Estudiante,3500,2018-03-19,Sucursal,Ciudad de México,1996-02-03,Ok,22
+C0743,Luis Flores Gutiérrez,Casado,Asalariado,43000,2014-07-13,Sucursal,Estado de México,1979-11-13,Ok,35
+C0105,Rodrigo López Aguilar,Divorciado,Hogar,6400,2022-07-12,Sucursal,Jalisco,1970-10-19,Ok,52
+C0686,Emiliano Hernández Castro,Casado,Independiente,9200,2018-01-31,Sucursal,Jalisco,1975-06-23,Ok,43
+C0707,Pablo Juárez Aguilar,Casado,Independiente,7500,2019-10-11,Sucursal,Guanajuato,1990-07-04,Ok,29
+C0958,Gerardo Méndez Moreno,Casado,Asalariado,24200,2025-06-12,Sucursal,Estado de México,1982-06-23,Ok,43
+C0017,Raúl Castillo Ramírez,Casado,Independiente,7100,2023-12-16,App,Estado de México,1979-07-21,Ok,44
+C0440,María Díaz Martínez,Soltero,Hogar,12600,2023-01-28,Sucursal,Estado de México,1990-11-05,Ok,32
+C0092,Andrea Cruz Sánchez,Soltero,Independiente,10600,2021-06-08,Sucursal,Estado de México,1969-04-27,Ok,52
+C0089,Emiliano Reyes Castro,Soltero,Estudiante,7000,2020-02-02,Sucursal,Jalisco,2001-01-15,Ok,19
+C0451,Mónica Rivera Velázquez,Unión libre,Asalariado,15600,2023-02-22,Sucursal,Nuevo León,1997-11-01,Ok,25
+C0103,Rosa García García,Casado,Asalariado,27500,2024-11-30,App,Guanajuato,1993-08-31,Ok,31
+C0239,Verónica Díaz Morales,Divorciado,Asalariado,19800,2023-12-21,App,Jalisco,1995-02-19,Ok,29
+C0719,Leticia Rodríguez Pérez,Unión libre,Independiente,18600,2017-04-25,Sucursal,Estado de México,1968-04-24,Ok,49
+C0247,Valeria Chávez Torres,Casado,Independiente,27300,2022-04-14,App,Puebla,1970-02-22,Ok,52
+C0868,Fernanda González Aguilar,Soltero,Hogar,7700,2025-01-14,App,Puebla,1991-08-29,Ok,33
+C0158,Ana Torres Flores,Soltero,Hogar,9900,2016-07-06,Sucursal,Estado de México,1996-11-06,Ok,20
+C0480,Francisco Vázquez Ortiz,Soltero,Asalariado,12600,2013-06-22,Sucursal,Quintana Roo,1974-10-12,Ok,39
+C0646,Héctor López Domínguez,Casado,Jubilado,14100,2016-12-04,Sucursal,Ciudad de México,1960-02-28,Ok,57
+C0840,Fernando Mendoza Morales,Soltero,Asalariado,24500,2024-12-11,Sucursal,Nuevo León,1987-02-12,Ok,38
+C0819,Jorge Ruiz Guzmán,Soltero,Asalariado,16800,2017-01-22,Sucursal,Querétaro,1981-12-02,Ok,35
+C0019,Mónica Rivera Velázquez,Casado,Hogar,4300,2025-03-05,App,Guanajuato,1991-02-05,Ok,34
+C0703,Raúl Domínguez Velázquez,Soltero,Independiente,35700,2023-12-19,App,Nuevo León,1981-03-17,Ok,43
+C0122,Daniel Pérez Flores,Casado,Independiente,26400,2025-03-24,Sucursal,Guanajuato,1983-08-08,Ok,42
+C0831,Laura Guzmán Chávez,Casado,Jubilado,10300,2025-10-10,Sucursal,Jalisco,1960-10-08,Ok,65
+C0702,Juan Jiménez Chávez,Unión libre,Asalariado,20500,2020-03-21,App,Nuevo León,1988-05-12,Ok,32
+C0275,Javier Aguilar Moreno,Soltero,Independiente,30000,2012-12-01,Sucursal,Estado de México,1984-01-17,Ok,29
+C0434,Lucía García Castillo,Casado,Asalariado,24200,2019-10-02,Sucursal,Ciudad de México,1993-10-21,Ok,26
+C0925,Daniel Gutiérrez Guzmán,Casado,Hogar,5500,2024-10-06,App,Guanajuato,1998-09-15,Ok,26
+C0312,Karla Jiménez Vázquez,Unión libre,Asalariado,17400,2018-02-23,Sucursal,Puebla,1989-05-27,Ok,29
+C0756,Fernando Vázquez Castro,Divorciado,Hogar,5400,2016-10-26,Sucursal,Yucatán,1972-01-16,Ok,45
+C0830,Juan Ortiz Guzmán,Casado,Asalariado,20100,2017-07-03,Sucursal,Jalisco,1984-10-05,Ok,33
+C0547,Carlos Méndez Flores,Casado,Asalariado,18400,2023-09-14,App,Guanajuato,1994-06-26,Ok,29
+C0182,Mateo Vázquez Morales,Casado,Asalariado,19400,2018-04-24,Sucursal,Jalisco,1971-03-20,Ok,47
+C0185,Diana Morales Moreno,Soltero,Asalariado,16600,2022-01-24,Sucursal,Estado de México,1988-09-26,Ok,33
+C0407,María Vázquez Sánchez,Casado,Hogar,7800,2025-07-20,App,Puebla,1995-05-22,Ok,30
+C0607,Elena Pérez Medina,Casado,Asalariado,13600,2017-08-22,Sucursal,Ciudad de México,1988-12-16,Ok,29
+C0693,Daniel Gómez Castro,Soltero,Independiente,24100,2012-08-09,Sucursal,Guanajuato,1973-02-23,Ok,39
+C0521,Daniel Rodríguez Romero,Soltero,Asalariado,17800,2013-07-19,Sucursal,Estado de México,1987-09-19,Ok,26
+C0381,Santiago Morales Vázquez,Soltero,Asalariado,13500,2020-12-04,Sucursal,Jalisco,1971-07-25,Ok,49
+C0411,Sebastián Domínguez Herrera,Soltero,Independiente,55100,2014-12-27,Sucursal,Yucatán,1975-10-25,Ok,39
+C0635,Andrea Ramírez Pérez,Viudo,Jubilado,8300,2015-01-11,Sucursal,Jalisco,1960-06-17,Ok,55
+C0370,Diego Sánchez Cruz,Casado,Asalariado,28600,2025-08-31,Sucursal,Nuevo León,1984-12-14,Ok,41
+C0808,Lucía Reyes Vargas,Soltero,Asalariado,16000,2025-03-04,Sucursal,Jalisco,1996-06-18,Ok,29
+C0890,Emiliano Herrera Moreno,Soltero,Independiente,13000,2025-01-19,Sucursal,Estado de México,1978-11-02,Ok,46
+C0751,Carlos Velázquez García,Soltero,Asalariado,25000,2023-12-24,App,Ciudad de México,1985-03-17,Ok,39
+C0079,Valeria Flores Gutiérrez,Unión libre,Estudiante,6500,2024-01-09,App,Nuevo León,1981-05-09,Ok,43
+C0574,Itzel Gutiérrez Juárez,Soltero,Asalariado,9900,2022-12-07,Sucursal,Ciudad de México,2003-08-13,Ok,19
+C0638,María Méndez Jiménez,Unión libre,Independiente,11900,2012-12-28,Sucursal,Jalisco,1973-07-30,Ok,39
+C0608,Mariana López Ortiz,Divorciado,Independiente,16000,2024-11-30,Sucursal,Puebla,1963-12-15,Ok,61
+C0792,Leticia Romero García,Soltero,Asalariado,29900,2015-12-04,Sucursal,Quintana Roo,1975-07-06,Ok,40
+C0987,Raúl Rojas Ramos,Divorciado,Asalariado,19900,2020-11-14,Sucursal,Estado de México,1979-05-04,Ok,42
+C0826,Arturo Moreno Gutiérrez,Soltero,Independiente,22200,2016-05-24,Sucursal,Estado de México,1987-03-10,Ok,29
+C0919,Fernando García Mendoza,Casado,Asalariado,25100,2025-06-10,App,Estado de México,1970-07-01,Ok,55
+C0417,Antonio González Sánchez,Soltero,Independiente,6100,2025-10-10,Sucursal,Nuevo León,1987-10-10,Ok,38
+C0740,Verónica Gómez Vargas,Casado,Independiente,11300,2024-09-25,App,Guanajuato,1999-01-22,Ok,26
+C0562,Alejandra Vargas Vargas,Casado,Hogar,3600,2015-01-16,Sucursal,Quintana Roo,1967-01-29,Ok,48
+C0068,Patricia Medina Ortiz,Divorciado,Independiente,24400,2022-12-28,App,Yucatán,1959-08-21,Ok,63
+C0537,Santiago Vázquez Rivera,Casado,Asalariado,16700,2022-10-06,Sucursal,Estado de México,1998-01-04,Ok,25
+C0078,Roberto Álvarez Flores,Unión libre,Asalariado,17500,2014-10-28,Sucursal,Yucatán,1974-05-23,Ok,40
+C0106,Gabriela Chávez Vargas,Casado,Asalariado,18600,2021-10-29,Sucursal,Jalisco,1993-06-14,Ok,28
+C0778,Adriana Cruz Sánchez,Soltero,Asalariado,18900,2015-06-27,Sucursal,Nuevo León,1973-04-05,Ok,42
+C0639,Santiago Ramos Morales,Divorciado,Independiente,20800,2016-11-21,Sucursal,Nuevo León,1976-07-26,Ok,40
+C0560,Emmanuel Jiménez Herrera,Casado,Asalariado,19300,2016-06-12,Sucursal,Jalisco,1966-12-06,Ok,50
+C0758,Monserrat López Domínguez,Soltero,Independiente,44100,2018-01-17,Sucursal,Nuevo León,1995-10-06,Ok,22
+C0691,María López Ortiz,Casado,Independiente,7500,2016-12-07,Sucursal,Guanajuato,1979-06-19,Ok,37
+C0863,Fernanda Castillo Díaz,Unión libre,Asalariado,17400,2021-12-29,Sucursal,Ciudad de México,1980-06-22,Ok,42
+C0932,Arturo Rivera Vázquez,Casado,Jubilado,10300,2018-08-06,Sucursal,Jalisco,1960-04-17,Ok,58
+C0865,Eduardo Hernández Méndez,Unión libre,Independiente,13100,2022-09-26,App,Guanajuato,2000-06-05,Ok,22
+C0736,Patricia Pérez Juárez,Casado,Asalariado,59600,2018-01-05,Sucursal,Jalisco,1983-07-23,Ok,34
+C0776,Paola Méndez Hernández,Soltero,Asalariado,35100,2023-07-20,App,Ciudad de México,2002-11-18,Ok,21
+C0491,Rosa Rivera Castro,Casado,Independiente,19000,2023-11-01,Sucursal,Jalisco,1968-07-17,Ok,55
+C0992,Héctor Díaz Rojas,Soltero,Asalariado,16700,2024-09-11,App,Yucatán,1993-02-03,Ok,32
+C0839,Guadalupe Ramírez Martínez,Casado,Asalariado,33300,2016-10-23,Sucursal,Jalisco,1991-04-26,Ok,25
+C0606,Verónica Romero Mendoza,Soltero,Asalariado,12600,2019-06-12,Sucursal,Ciudad de México,1984-04-01,Ok,35
+C0364,Ana Cruz García,Casado,Hogar,5100,2021-10-21,App,Yucatán,1972-05-02,Ok,49
+C0070,Karla Ramos Morales,Casado,Estudiante,3500,2017-01-25,Sucursal,Estado de México,1994-09-14,Ok,22
+C0549,Diana Flores Jiménez,Casado,Independiente,8100,2020-02-08,Sucursal,Yucatán,1984-02-14,Ok,36
+C0161,Ana Aguilar Cruz,Casado,Asalariado,23700,2023-08-23,App,Puebla,1971-03-04,Ok,52
+C0012,Laura Hernández Cruz,Unión libre,Asalariado,13400,2024-11-08,Sucursal,Querétaro,1984-03-21,Ok,41
+C0145,Valeria Cruz Jiménez,Casado,Asalariado,65700,2018-06-16,Sucursal,Estado de México,1982-08-26,Ok,36
+C0518,Manuel Guzmán Torres,Casado,Independiente,7600,2022-03-26,App,Yucatán,1999-10-02,Ok,22
+C0428,Gabriela Rivera Juárez,Casado,Asalariado,48100,2012-09-30,Sucursal,Quintana Roo,1976-03-08,Ok,37
+C0640,Andrea Torres Rodríguez,Casado,Asalariado,12300,2022-04-18,Sucursal,Ciudad de México,1997-05-17,Ok,25
+C0177,Antonio Herrera Velázquez,Casado,Independiente,4500,2014-06-27,Sucursal,Estado de México,1992-02-27,Ok,22
+C0441,Claudia Juárez Chávez,Casado,Asalariado,25100,2020-12-15,Sucursal,Querétaro,1967-01-30,Ok,54
+C0522,José Guzmán Gómez,Casado,Asalariado,21400,2016-10-11,Sucursal,Ciudad de México,1989-02-13,Ok,28
+C0866,Camila Álvarez Mendoza,Soltero,Asalariado,17400,2022-02-20,Sucursal,Jalisco,1993-12-29,Ok,28
+C0936,Valeria Domínguez Jiménez,Casado,Hogar,3500,2018-12-19,Sucursal,Querétaro,1983-11-01,Ok,35
+C0689,Itzel Castro Romero,Casado,Asalariado,12700,2022-10-26,App,Puebla,1997-05-31,Ok,25
+C0232,Eduardo Juárez Castro,Soltero,Hogar,6300,2025-10-16,App,Querétaro,1991-02-14,Ok,35
+C0211,Emmanuel Flores Martínez,Casado,Asalariado,21300,2016-07-19,Sucursal,Nuevo León,1987-01-07,Ok,30
+C0641,Fernando López Vázquez,Soltero,Asalariado,18800,2025-04-14,App,Quintana Roo,1980-09-12,Ok,45
+C0144,Mateo Aguilar Romero,Casado,Asalariado,16400,2023-12-10,App,Nuevo León,1993-10-20,Ok,30
+C0754,Mariana Guzmán Álvarez,Casado,Hogar,7400,2013-10-15,Sucursal,Jalisco,1991-01-29,Ok,23
+C0520,Claudia Ortiz Álvarez,Casado,Independiente,12000,2024-07-11,Sucursal,Jalisco,1978-02-14,Ok,46
+C0998,Andrea Mendoza Sánchez,Casado,Asalariado,16600,2025-03-11,Sucursal,Yucatán,1978-08-11,Ok,47
+C0299,Gabriela Vargas Castillo,Unión libre,Independiente,90300,2019-01-17,Sucursal,Jalisco,1984-02-10,Ok,35
+C0767,Santiago Pérez Torres,Unión libre,Independiente,9300,2023-11-05,App,Yucatán,2003-05-16,Ok,20
+C0429,María Castro Gómez,Soltero,Estudiante,6000,2012-07-27,Sucursal,Yucatán,1992-01-09,Ok,21
+C0613,Daniel Torres Castro,Soltero,Independiente,26600,2024-04-08,App,Ciudad de México,1997-02-13,Ok,27
+C0923,Iván Velázquez Velázquez,Divorciado,Hogar,10600,2016-09-16,Sucursal,Nuevo León,1987-09-09,Ok,29
+C0931,Adriana Domínguez Juárez,Soltero,Independiente,10400,2024-09-01,App,Nuevo León,1984-08-28,Ok,40
+C0009,Regina Castillo Martínez,Divorciado,Independiente,24600,2021-07-15,App,Querétaro,1996-12-20,Ok,25
+C0157,Alejandra López Moreno,Divorciado,Asalariado,15900,2023-08-19,App,Nuevo León,1993-10-08,Ok,30
+C0540,Manuel Moreno Castro,Casado,Asalariado,9800,2023-06-21,Sucursal,Ciudad de México,1979-01-13,Ok,44
+C0507,Mónica Aguilar Torres,Casado,Asalariado,22500,2022-02-24,Sucursal,Jalisco,1988-07-13,Ok,34
+C0437,Valeria Herrera Ramírez,Divorciado,Asalariado,24400,2015-04-28,Sucursal,Nuevo León,1976-01-10,Ok,39
+C0267,Iván Jiménez Gutiérrez,Divorciado,Asalariado,30500,2016-01-24,Sucursal,Quintana Roo,1970-06-14,Ok,46
+C0462,Regina Reyes Jiménez,Soltero,Asalariado,11100,2019-10-02,Sucursal,Estado de México,1975-08-05,Ok,44
+C0577,Jorge López Rodríguez,Unión libre,Asalariado,9200,2018-02-11,Sucursal,Ciudad de México,1990-08-31,Ok,27
+C0339,Lucía Martínez Herrera,Soltero,Independiente,10100,2021-11-03,App,Estado de México,1996-11-04,Ok,25
+C0256,Daniel Castillo García,Casado,Asalariado,17800,2023-01-02,App,Yucatán,1989-10-03,Ok,33
+C0802,Carlos Rodríguez Medina,Casado,Asalariado,15300,2024-09-03,Sucursal,Estado de México,1985-05-17,Ok,39
+C0897,Héctor Torres Guzmán,Casado,Jubilado,21600,2020-05-08,Sucursal,Estado de México,1960-10-02,Ok,60
+C0666,Juan Ruiz Velázquez,Casado,Jubilado,16100,2021-10-15,App,Guanajuato,1962-09-07,Ok,59
+C0561,Javier Velázquez Ramírez,Casado,Asalariado,13100,2016-12-13,Sucursal,Querétaro,1983-07-27,Ok,33
+C0209,Rosa Ramírez Ramírez,Soltero,Asalariado,21400,2018-06-21,Sucursal,Nuevo León,1986-09-07,Ok,32
+C0288,Itzel Torres Juárez,Soltero,Asalariado,16500,2018-12-04,Sucursal,Ciudad de México,1999-07-05,Ok,19
+C0002,Itzel Romero Ramos,Casado,Asalariado,22800,2025-01-12,App,Quintana Roo,1980-02-05,Ok,45
+C0342,Gerardo Aguilar Vázquez,Soltero,Estudiante,8600,2017-10-13,Sucursal,Nuevo León,1997-04-11,Ok,21
+C0270,Alejandra Ruiz García,Unión libre,Hogar,9000,2024-03-05,App,Puebla,1986-04-28,Ok,38
+C0266,Rosa Pérez Martínez,Viudo,Asalariado,26600,2019-06-15,Sucursal,Jalisco,1965-04-30,Ok,54
+C0811,Patricia Rodríguez Rojas,Casado,Asalariado,12700,2023-02-18,App,Estado de México,1997-04-28,Ok,26
+C0818,Héctor Aguilar Torres,Casado,Asalariado,13700,2014-10-01,Sucursal,Nuevo León,1991-09-08,Ok,23
+C0096,Miguel Chávez Vázquez,Soltero,Asalariado,9800,2024-04-21,Sucursal,Puebla,1987-06-08,Ok,37
+C0964,Gabriela Hernández Cruz,Soltero,Asalariado,44000,2017-01-26,Sucursal,Jalisco,1975-06-29,Ok,42
+C0043,José Romero Ruiz,Divorciado,Asalariado,30900,2021-10-09,App,Yucatán,1988-04-08,Ok,34
+C0801,Monserrat Juárez García,Unión libre,Asalariado,17000,2024-03-15,App,Estado de México,1995-10-04,Ok,28
+C0996,Paola Mendoza Gutiérrez,Soltero,Asalariado,13100,2013-08-29,Sucursal,Nuevo León,1985-02-23,Ok,29
+C0829,Roberto Ruiz Hernández,Soltero,Asalariado,28000,2012-09-21,Sucursal,Ciudad de México,1986-09-13,Ok,26
+C0629,Patricia Vargas Moreno,Soltero,Asalariado,52800,2025-07-15,Sucursal,Ciudad de México,2001-11-08,Ok,24
+C0046,Brenda Moreno Martínez,Casado,Hogar,5700,2021-12-31,App,Ciudad de México,1990-09-12,Ok,31
+C0162,José Juárez Ruiz,Casado,Hogar,8900,2016-10-13,Sucursal,Nuevo León,1980-09-30,Ok,36
+C0728,Ricardo Ramírez Ruiz,Casado,Jubilado,19300,2016-11-26,Sucursal,Puebla,1958-04-12,Ok,59
+C0630,Carlos Guzmán Vargas,Soltero,Asalariado,17600,2024-02-08,App,Guanajuato,1991-02-26,Ok,33
+C0289,Andrea Flores Méndez,Casado,Asalariado,16700,2020-08-15,Sucursal,Ciudad de México,1993-05-16,Ok,27
+C0590,María Vargas Rojas,Casado,Asalariado,23500,2025-02-19,Sucursal,Yucatán,1988-06-17,Ok,37
+C0889,Mónica Rodríguez Díaz,Soltero,Asalariado,14700,2023-07-13,Sucursal,Estado de México,2001-12-28,Ok,22
+C0948,Laura Jiménez Vázquez,Divorciado,Asalariado,30300,2013-04-30,Sucursal,Jalisco,1989-03-01,Ok,24
+C0576,Antonio Herrera Álvarez,Casado,Asalariado,23600,2024-01-05,App,Estado de México,1980-02-03,Ok,44
+C0316,Mateo García Aguilar,Soltero,Independiente,,2013-11-02,Sucursal,Ciudad de México,1985-11-02,Ingreso no declarado,28
+C0231,Adriana Medina González,Casado,Asalariado,24100,2024-01-19,App,Yucatán,1991-11-30,Ok,32
+C0810,Regina Vargas Velázquez,Casado,Asalariado,12500,2023-09-06,Sucursal,Yucatán,1990-11-16,Ok,33
+C0699,Verónica Méndez Flores,Casado,Estudiante,3900,2016-07-21,Sucursal,Quintana Roo,1971-12-10,Ok,45
+C0822,Paola Reyes Gutiérrez,Soltero,Asalariado,13200,2019-12-20,Sucursal,Nuevo León,1970-03-08,Ok,50
+C0712,Rodrigo Sánchez Flores,Soltero,Asalariado,11700,2018-07-18,Sucursal,Yucatán,1970-10-16,Ok,48
+C0077,Patricia Velázquez Rodríguez,Casado,Independiente,,2020-12-02,Sucursal,Quintana Roo,1966-04-22,Ingreso no declarado,55
+C0634,Monserrat Vargas Mendoza,Casado,Estudiante,8400,2021-06-03,App,Yucatán,1977-11-13,Ok,44
+C0970,Manuel Domínguez Ramírez,Soltero,Asalariado,33900,2024-09-22,App,Estado de México,1990-02-01,Ok,35
+C0248,Gerardo Reyes Torres,Soltero,Asalariado,17000,2025-01-27,Sucursal,Puebla,1987-10-03,Ok,37
+C0477,Arturo Reyes García,Casado,Asalariado,18600,2014-08-01,Sucursal,Jalisco,1982-12-05,Ok,32
+C0671,Leticia Gómez Martínez,Casado,Asalariado,16700,2015-03-14,Sucursal,Ciudad de México,1987-06-04,Ok,28
+C0086,Francisco Vargas Juárez,Casado,Asalariado,11400,2022-02-10,App,Querétaro,1993-12-07,Ok,28
+C0470,Fernanda Morales Martínez,Casado,Hogar,5800,2024-12-06,App,Ciudad de México,1990-02-20,Ok,35
+C0226,Sebastián Díaz Gómez,Casado,Asalariado,12000,2012-11-13,Sucursal,Ciudad de México,1990-02-07,Ok,23
+C0775,Arturo Jiménez López,Unión libre,Asalariado,20200,2021-08-21,App,Estado de México,1989-08-24,Ok,32
+C0332,Antonio González Velázquez,Viudo,Independiente,17600,2018-09-20,Sucursal,Estado de México,1962-12-15,Ok,56
+C0234,Mateo Vargas Gutiérrez,Casado,Asalariado,14800,2022-06-23,App,Ciudad de México,1995-05-16,Ok,27
+C0589,Manuel Morales Reyes,Casado,Hogar,17700,2012-12-29,Sucursal,Estado de México,1980-10-05,Ok,32
+C0476,Fernanda Castillo Morales,Casado,Asalariado,19300,2014-07-13,Sucursal,Ciudad de México,1990-11-10,Ok,24
+C0887,Carlos Martínez Rojas,Viudo,Jubilado,14700,2013-06-09,Sucursal,Querétaro,1956-09-03,Ok,57
+C0867,Alejandro Sánchez Chávez,Soltero,Asalariado,,2025-09-04,App,Yucatán,1981-08-11,Ingreso no declarado,44
+C0600,Emmanuel Gutiérrez Sánchez,Soltero,Independiente,41100,2018-04-09,Sucursal,Estado de México,1986-10-19,Ok,31
+C0422,María Castro Flores,Soltero,Independiente,28000,2014-10-11,Sucursal,Puebla,1980-12-13,Ok,34
+C0688,Mariana Medina Ruiz,Divorciado,Asalariado,12100,2024-06-21,App,Guanajuato,1987-05-18,Ok,37
+C0183,Gerardo López Medina,Soltero,Estudiante,4200,2015-01-10,Sucursal,Jalisco,1990-01-29,Ok,25
+C0618,Mateo Vázquez García,Soltero,Asalariado,17800,2024-01-07,App,Nuevo León,1987-09-23,Ok,36
+C0333,Ximena López Herrera,Divorciado,Asalariado,25400,2022-02-12,App,Jalisco,1985-10-11,Ok,36
+C0439,Sofía Torres Ruiz,Casado,Asalariado,27000,2016-06-06,Sucursal,Jalisco,1979-09-09,Ok,37
+C0050,María Pérez Cruz,Casado,Asalariado,17000,2024-08-19,Sucursal,Estado de México,1991-05-01,Ok,33
+C0006,Miguel Guzmán Romero,Casado,Independiente,6400,2019-02-09,Sucursal,Estado de México,1979-07-12,Ok,40
+C0530,Alejandro Ortiz Álvarez,Soltero,Asalariado,21800,2014-02-11,Sucursal,Yucatán,1993-12-05,Ok,20
+C0235,Santiago Díaz Rodríguez,Soltero,Independiente,3500,2018-05-28,Sucursal,Estado de México,1971-12-27,Ok,46
+C0487,Sebastián Juárez Ruiz,Soltero,Independiente,32700,2014-01-11,Sucursal,Guanajuato,1979-06-10,Ok,35
+C0901,Paola Flores Herrera,Divorciado,Asalariado,11500,2017-03-06,Sucursal,Estado de México,1974-11-28,Ok,42
+C0498,Andrea Gutiérrez Álvarez,Unión libre,Independiente,15500,2023-06-25,App,Querétaro,1997-08-30,Ok,26
+C0895,Héctor Pérez Juárez,Casado,Hogar,5300,2025-08-22,App,Guanajuato,1997-03-27,Ok,28
+C0107,Alejandro Gutiérrez Ruiz,Casado,Jubilado,11300,2025-05-13,Sucursal,Estado de México,1943-05-08,Ok,82
+C0444,Eduardo Gómez Herrera,Casado,Asalariado,27400,2023-03-03,App,Puebla,1995-08-22,Ok,28
+C0489,Eduardo Méndez Rodríguez,Casado,Hogar,16000,2025-03-17,App,Nuevo León,1969-10-01,Ok,55
+C0647,Valeria Juárez Sánchez,Soltero,Estudiante,6900,2016-01-30,Sucursal,Querétaro,1974-09-24,Ok,41
+C0013,Carlos Ramírez Ramírez,Casado,Asalariado,59700,2016-09-11,Sucursal,Nuevo León,1980-09-03,Ok,36
+C0739,Diego Sánchez Ramos,Divorciado,Asalariado,7600,2022-09-02,App,Nuevo León,1991-10-18,Ok,31
+C0727,Manuel Pérez Vargas,Unión libre,Estudiante,5000,2018-03-23,Sucursal,Ciudad de México,1991-06-25,Ok,27
+C0191,Ana García Ortiz,Soltero,Jubilado,19700,2023-07-16,Sucursal,Puebla,1962-07-21,Ok,61
+C0942,Óscar Pérez González,Unión libre,Asalariado,21500,2021-12-17,App,Ciudad de México,1985-05-13,Ok,37
+C0833,Emmanuel López Castillo,Casado,Asalariado,8000,2025-02-22,Sucursal,Yucatán,1964-08-14,Ok,61
+C0283,Sofía Morales Sánchez,Casado,Independiente,14300,2025-02-18,App,Yucatán,1974-12-07,Ok,50
+C0030,Francisco Morales Martínez,Soltero,Asalariado,16500,2023-10-30,App,Nuevo León,1986-02-26,Ok,38
+C0170,Mateo Álvarez Domínguez,Casado,Asalariado,10000,2020-08-31,Sucursal,Estado de México,1990-04-18,Ok,30
+C0181,Jorge Martínez Medina,Casado,Independiente,17700,2012-02-16,Sucursal,Puebla,1977-08-26,Ok,34
+C0101,Valeria Pérez Álvarez,Viudo,Independiente,12300,2012-09-09,Sucursal,Nuevo León,1965-08-17,Ok,47
+C0198,Fernando Velázquez Álvarez,Soltero,Estudiante,4200,2018-10-26,Sucursal,Estado de México,1998-06-30,Ok,20
+C0496,Monserrat Méndez Pérez,Casado,Asalariado,38500,2023-08-29,Sucursal,Estado de México,1985-05-28,Ok,38
+C0722,Fernanda Vargas Mendoza,Casado,Asalariado,9000,2021-10-27,Sucursal,Nuevo León,1977-10-08,Ok,44
+C0648,Ana Mendoza Sánchez,Casado,Independiente,20500,2024-01-14,App,Yucatán,1996-09-07,Ok,27
+C0975,Luis Méndez Pérez,Casado,Independiente,12300,2024-05-02,Sucursal,Puebla,1968-09-11,Ok,56
+C0929,Javier Hernández Romero,Unión libre,Independiente,,2021-03-13,App,Jalisco,1976-03-08,Ingreso no declarado,45
+C0711,Daniela Ramos Álvarez,Divorciado,Hogar,9300,2017-01-18,Sucursal,Ciudad de México,1986-05-30,Ok,31
+C0374,Andrea Mendoza Flores,Casado,Asalariado,23900,2022-10-30,Sucursal,Ciudad de México,1970-03-28,Ok,53
+C0679,Mónica López Sánchez,Casado,Independiente,14100,2024-12-14,App,Jalisco,1995-08-27,Ok,29
+C0882,Raúl Rivera Castro,Unión libre,Hogar,7200,2020-12-12,App,Querétaro,1988-07-22,Ok,32
+C0649,Gerardo Torres Rivera,Divorciado,Asalariado,25000,2014-05-19,Sucursal,Ciudad de México,1972-11-15,Ok,42
+C0798,Emiliano Pérez Guzmán,Casado,Asalariado,7200,2012-07-28,Sucursal,Ciudad de México,1990-08-30,Ok,22
+C0848,Antonio Castro Álvarez,Casado,Independiente,19600,2023-05-17,Sucursal,Puebla,1996-01-07,Ok,27
+C0461,Itzel Vargas Vázquez,Soltero,Asalariado,15300,2023-04-19,App,Querétaro,1994-07-30,Ok,29
+C0414,Itzel Vázquez Morales,Divorciado,Asalariado,16800,2019-06-19,Sucursal,Estado de México,1978-10-30,Ok,41
+C0132,Alejandra Domínguez Mendoza,Unión libre,Asalariado,13700,2015-07-23,Sucursal,Ciudad de México,1973-07-26,Ok,42
+C0040,Fernando Flores Sánchez,Soltero,Asalariado,31300,2014-02-28,Sucursal,Estado de México,1974-11-20,Ok,39
+C0435,Miguel Sánchez Romero,Soltero,Asalariado,7800,2021-04-08,App,Puebla,1984-02-06,Ok,37
+C0216,Alejandra Guzmán Torres,Soltero,Hogar,12400,2022-06-30,App,Quintana Roo,1983-09-08,Ok,39
+C0556,Fernando Morales Reyes,Casado,Asalariado,14200,2016-08-21,Sucursal,Yucatán,1969-06-18,Ok,47
+C0567,Monserrat Flores Aguilar,Soltero,Independiente,32800,2024-04-25,Sucursal,Puebla,1973-06-05,Ok,51
+C0763,Jorge Gutiérrez Reyes,Soltero,Asalariado,6600,2021-04-09,App,Querétaro,2001-10-09,Ok,19
+C0475,Laura Ramos Hernández,Casado,Asalariado,19600,2025-10-15,Sucursal,Estado de México,1971-07-31,Ok,54
+C0457,Diana Domínguez Chávez,Casado,Hogar,5400,2015-11-17,Sucursal,Estado de México,1974-01-27,Ok,42
+C0812,Adriana Torres Mendoza,Unión libre,Asalariado,39600,2023-01-05,App,Quintana Roo,1985-01-21,Ok,38
+C0261,Mariana Jiménez Rodríguez,Casado,Asalariado,13100,2014-06-29,Sucursal,Jalisco,1980-11-17,Ok,34
+C0817,Diana Reyes Ramírez,Soltero,Asalariado,29500,2016-04-20,Sucursal,Jalisco,1981-09-03,Ok,35
+C0036,Ricardo Juárez Morales,Casado,Asalariado,33300,2018-10-05,Sucursal,Estado de México,1981-08-29,Ok,37
+C0828,Pablo Medina Medina,Casado,Asalariado,52500,2025-04-16,Sucursal,Ciudad de México,1973-10-30,Ok,51
+C0310,Andrea Martínez Gutiérrez,Casado,Asalariado,16800,2023-09-01,Sucursal,Yucatán,1980-11-03,Ok,43
+C0277,Rodrigo Castillo Gómez,Casado,Asalariado,25900,2022-06-20,App,Querétaro,1985-01-08,Ok,37
+C0637,Ximena Díaz Gutiérrez,Soltero,Estudiante,4600,2025-03-30,App,Jalisco,1977-05-27,Ok,48
+C0655,Sebastián López Martínez,Viudo,Jubilado,16700,2013-01-16,Sucursal,Estado de México,1961-12-19,Ok,51
+C0623,Adriana Guzmán Díaz,Unión libre,Asalariado,14000,2014-08-22,Sucursal,Estado de México,1977-02-15,Ok,38
+C0836,Karla Méndez Díaz,Casado,Asalariado,8900,2022-07-07,Sucursal,Ciudad de México,1979-01-18,Ok,43
+C0845,Camila Reyes Mendoza,Viudo,Jubilado,18400,2025-03-23,Sucursal,Jalisco,1957-03-19,Ok,68
+C0394,Emmanuel Medina Ruiz,Divorciado,Independiente,20300,2017-12-26,Sucursal,Querétaro,1997-07-27,Ok,20
+C0938,Francisco Chávez Aguilar,Soltero,Estudiante,4600,2017-03-17,Sucursal,Nuevo León,1992-04-28,Ok,25
+C0108,Fernando Jiménez Torres,Soltero,Asalariado,23000,2017-06-02,Sucursal,Ciudad de México,1965-10-28,Ok,52
+C0951,Fernanda Jiménez Rodríguez,Soltero,Estudiante,5300,2018-05-30,Sucursal,Puebla,1989-12-07,Ok,28
+C0525,Patricia Álvarez López,Casado,Independiente,12300,2022-01-18,Sucursal,Ciudad de México,1966-05-24,Ok,56
+C0785,Paola Díaz Díaz,Casado,Asalariado,44900,2023-06-20,App,Quintana Roo,1979-03-02,Ok,44
+C0048,Gerardo Reyes Jiménez,Soltero,Asalariado,13500,2025-08-16,Sucursal,Jalisco,1982-07-10,Ok,43
+C0204,Gabriela García Ruiz,Unión libre,Asalariado,18600,2020-08-31,Sucursal,Nuevo León,1969-02-20,Ok,52
+C0926,Antonio González Álvarez,Viudo,Asalariado,40400,2017-11-05,Sucursal,Ciudad de México,1965-04-01,Ok,53
+C0632,Fernando Aguilar Sánchez,Soltero,Asalariado,24400,2023-04-06,Sucursal,Puebla,1980-06-17,Ok,43
+C0022,Monserrat Castillo López,Casado,Asalariado,20700,2022-02-20,Sucursal,Jalisco,1985-12-10,Ok,36
+C0403,Rodrigo Velázquez Rojas,Casado,Asalariado,14700,2012-03-04,Sucursal,Nuevo León,1990-09-09,Ok,21
+C0084,Adriana Cruz Mendoza,Casado,Asalariado,14500,2018-05-04,Sucursal,Estado de México,1997-01-28,Ok,21
+C0131,Iván Vargas Ortiz,Casado,Asalariado,20400,2019-01-17,Sucursal,Jalisco,1987-05-05,Ok,32
+C0416,Elena Castillo Herrera,Casado,Jubilado,20400,2021-10-07,Sucursal,Yucatán,1952-10-07,Ok,69
+C0985,Roberto Juárez Herrera,Soltero,Hogar,11500,2016-08-09,Sucursal,Jalisco,1979-05-10,Ok,37
+C0842,Emmanuel García Reyes,Soltero,Jubilado,21400,2025-04-18,Sucursal,Jalisco,1952-12-13,Ok,72
+C0742,Camila Gutiérrez Pérez,Divorciado,Independiente,28500,2015-12-12,Sucursal,Nuevo León,1989-03-28,Ok,27
+C0698,Patricia Reyes López,Soltero,Estudiante,11000,2014-04-09,Sucursal,Guanajuato,1984-01-26,Ok,30
+C0287,Monserrat Vázquez Gómez,Casado,Independiente,26100,2017-04-16,Sucursal,Querétaro,1985-01-18,Ok,32
+C0124,Rosa Guzmán Guzmán,Casado,Asalariado,18100,2021-02-10,App,Yucatán,1982-08-02,Ok,39
+C0034,Sebastián Vázquez Gómez,Soltero,Asalariado,,2022-03-16,Sucursal,Quintana Roo,2003-06-08,Ingreso no declarado,19
+C0977,Claudia Juárez Álvarez,Casado,Independiente,24600,2019-11-26,Sucursal,Ciudad de México,1987-06-24,Ok,32
+C0517,Francisco Romero Torres,Casado,Asalariado,10300,2021-04-19,App,Jalisco,1999-12-13,Ok,21
+C0020,Lucía Chávez Rodríguez,Casado,Independiente,8800,2022-03-07,App,Jalisco,1990-09-19,Ok,31
+C0927,Mateo Gómez Medina,Soltero,Independiente,3800,2024-06-02,Sucursal,Estado de México,1974-01-17,Ok,50
+C0220,Francisco Cruz Álvarez,Soltero,Independiente,13400,2025-10-26,App,Jalisco,1993-08-21,Ok,32
+C0892,Mónica Reyes Aguilar,Unión libre,Asalariado,10600,2020-02-17,Sucursal,Nuevo León,1994-09-03,Ok,25
+C0482,Adriana Domínguez Rivera,Soltero,Asalariado,9200,2025-07-16,App,Ciudad de México,1989-07-16,Ok,36
+C0357,Laura Ramos Álvarez,Soltero,Jubilado,5800,2017-01-25,Sucursal,Estado de México,1961-07-27,Ok,55
+C0662,Jorge Ruiz Ortiz,Casado,Jubilado,13400,2022-06-19,Sucursal,Puebla,1954-05-02,Ok,68
+C0225,Óscar García Guzmán,Soltero,Asalariado,16000,2024-02-13,App,Quintana Roo,1971-04-04,Ok,53
+C0760,Javier Romero Torres,Casado,Asalariado,22800,2018-08-24,Sucursal,Puebla,1966-08-18,Ok,52
+C0093,Luis Rivera Domínguez,Soltero,Hogar,7100,2020-01-06,Sucursal,Quintana Roo,1985-12-18,Ok,34
+C0152,Verónica Castro Rivera,Casado,Asalariado,18000,2016-02-27,Sucursal,Querétaro,1979-11-20,Ok,36
+C0984,Héctor Guzmán Domínguez,Soltero,Independiente,23900,2018-04-30,Sucursal,Ciudad de México,1983-12-23,Ok,34
+C0318,Emmanuel Flores Juárez,Casado,Asalariado,24300,2015-08-21,Sucursal,Ciudad de México,1986-04-24,Ok,29
+C0449,Valeria Reyes Díaz,Casado,Independiente,35400,2016-11-18,Sucursal,Ciudad de México,1983-09-28,Ok,33
+C0804,Óscar Reyes Álvarez,Casado,Hogar,4000,2021-07-22,Sucursal,Guanajuato,1960-07-05,Ok,61
+C0746,Ximena Romero González,Casado,Independiente,23000,2024-08-25,App,Yucatán,1992-12-04,Ok,32
+C0523,Rodrigo Chávez Hernández,Casado,Asalariado,25700,2024-09-02,Sucursal,Nuevo León,1993-10-01,Ok,31
+C0280,Patricia Pérez Medina,Casado,Asalariado,11800,2014-06-18,Sucursal,Puebla,1992-11-10,Ok,22
+C0584,Andrea Pérez Aguilar,Divorciado,Estudiante,5200,2023-03-14,Sucursal,Jalisco,1976-07-21,Ok,47
+C0765,Ana Herrera Pérez,Casado,Jubilado,13700,2025-08-14,Sucursal,Querétaro,1962-05-11,Ok,63
+C0605,Valeria Rojas Castillo,Casado,Asalariado,14400,2019-02-04,Sucursal,Guanajuato,1997-08-22,Ok,21
+C0983,Sofía Ruiz Aguilar,Casado,Independiente,37200,2025-09-20,App,Querétaro,1988-09-21,Ok,37
+C0350,Karla Méndez Morales,Soltero,Jubilado,23000,2014-06-10,Sucursal,Nuevo León,1955-06-25,Ok,59
+C0928,Miguel García Moreno,Casado,Independiente,11100,2024-08-03,App,Querétaro,1988-02-23,Ok,36
+C0375,Alejandra Castro Guzmán,Soltero,Asalariado,19000,2024-05-03,Sucursal,Nuevo León,1997-12-22,Ok,26
+C0401,Carlos Torres Álvarez,Unión libre,Asalariado,11500,2017-04-22,Sucursal,Yucatán,1967-08-22,Ok,50
+C0705,Juan Morales Ortiz,Unión libre,Asalariado,23800,2023-04-30,App,Nuevo León,1969-11-19,Ok,53
+C0258,María Pérez Martínez,Casado,Asalariado,19000,2022-07-20,App,Estado de México,1969-12-23,Ok,53
+C0945,Santiago Ruiz Méndez,Casado,Asalariado,25300,2025-06-07,App,Nuevo León,1996-10-25,Ok,29
+C0852,Elena López Rivera,Unión libre,Asalariado,16600,2018-07-01,Sucursal,Nuevo León,1993-06-22,Ok,25
+C0073,Eduardo Sánchez Morales,Casado,Asalariado,28300,2013-12-20,Sucursal,Querétaro,1975-08-21,Ok,38
+C0196,Alejandra Reyes Pérez,Unión libre,Asalariado,12300,2021-08-27,Sucursal,Puebla,1988-05-25,Ok,33
+C0484,Elena Juárez López,Unión libre,Independiente,7800,2021-08-25,App,Estado de México,1977-12-28,Ok,44
+C0856,Óscar Rivera García,Soltero,Independiente,,2022-02-24,App,Ciudad de México,1976-04-17,Ingreso no declarado,46
+C0138,Arturo Rojas Rojas,Casado,Hogar,7200,2020-02-24,Sucursal,Estado de México,1957-07-30,Ok,63
+C0495,Rodrigo Moreno Juárez,Casado,Hogar,6500,2025-10-30,Sucursal,Querétaro,1991-11-27,Ok,34
+C0773,Ana Guzmán Rojas,Soltero,Independiente,24600,2024-11-22,App,Ciudad de México,2003-11-04,Ok,21
+C0551,Sofía Medina Castillo,Soltero,Asalariado,25600,2024-12-12,Sucursal,Ciudad de México,1993-10-03,Ok,31
+C0463,Claudia Morales García,Casado,Independiente,4200,2016-11-07,Sucursal,Jalisco,1949-06-14,Ok,67
+C0202,Valeria Torres Juárez,Casado,Independiente,17300,2013-12-12,Sucursal,Jalisco,1987-02-09,Ok,27
+C0313,Regina Herrera Ruiz,Unión libre,Asalariado,11100,2013-06-09,Sucursal,Guanajuato,1992-01-17,Ok,21
+C0291,Guadalupe Vargas Rivera,Soltero,Asalariado,13400,2012-02-23,Sucursal,Ciudad de México,1983-07-23,Ok,29
+C0961,Raúl Sánchez Ramos,Soltero,Asalariado,8500,2024-12-24,App,Guanajuato,1994-07-09,Ok,30
+C0190,José Romero Rojas,Soltero,Independiente,4400,2016-06-01,Sucursal,Nuevo León,1994-03-05,Ok,22
+C0764,Fernanda Hernández Jiménez,Soltero,Asalariado,15400,2013-10-08,Sucursal,Nuevo León,1981-03-08,Ok,33
+C0113,Rosa Díaz Gutiérrez,Casado,Asalariado,17500,2017-05-31,Sucursal,Nuevo León,1969-04-03,Ok,48
+C0950,Eduardo Gutiérrez Jiménez,Casado,Independiente,5400,2021-08-07,Sucursal,Estado de México,1985-04-24,Ok,36
+C0184,Daniel Velázquez Medina,Soltero,Asalariado,15900,2015-05-30,Sucursal,Estado de México,1990-03-15,Ok,25
+C0153,Lucía Ortiz Flores,Unión libre,Independiente,9700,2024-05-29,App,Nuevo León,1981-03-14,Ok,43
+C0825,Mateo González Ortiz,Casado,Asalariado,33800,2023-10-12,App,Querétaro,1973-10-17,Ok,50
+C0326,Ana Flores Ortiz,Soltero,Asalariado,13300,2025-09-23,Sucursal,Jalisco,1982-10-15,Ok,43
+C0704,Sebastián Flores Castillo,Unión libre,Asalariado,20900,2025-09-23,Sucursal,Estado de México,1991-08-12,Ok,34
+C0045,Gabriela Guzmán Díaz,Casado,Independiente,21800,2025-04-06,Sucursal,Puebla,1961-07-08,Ok,64
+C0445,Eduardo Jiménez Reyes,Soltero,Asalariado,10200,2023-12-18,Sucursal,Estado de México,1979-08-02,Ok,44
+C0788,Emmanuel Herrera Mendoza,Casado,Independiente,34500,2021-11-21,Sucursal,Estado de México,1988-07-13,Ok,33
+C0007,Alejandro Romero Domínguez,Soltero,Asalariado,18200,2024-02-22,App,Nuevo León,1977-02-17,Ok,47
+C0251,Eduardo Rodríguez Sánchez,Casado,Asalariado,32800,2018-06-13,Sucursal,Ciudad de México,1990-10-23,Ok,28
+C0824,Óscar Castro Pérez,Divorciado,Hogar,10300,2012-01-12,Sucursal,Nuevo León,1984-10-31,Ok,27
+C0076,Ximena Díaz Jiménez,Casado,Asalariado,8800,2025-03-06,App,Quintana Roo,1998-07-27,Ok,27
+C0513,Sofía Juárez Gómez,Soltero,Estudiante,7100,2025-04-30,App,Puebla,1979-09-23,Ok,46
+C0941,Juan Rojas Ortiz,Soltero,Asalariado,11300,2021-12-28,Sucursal,Puebla,1982-08-08,Ok,39
+C0392,Andrea Álvarez Torres,Casado,Asalariado,33700,2020-03-27,Sucursal,Querétaro,1991-01-27,Ok,29
+C0896,Verónica Torres Flores,Soltero,Asalariado,28400,2020-01-31,Sucursal,Yucatán,1993-07-02,Ok,27
+C0433,Rosa Moreno Velázquez,Casado,Independiente,7200,2024-09-30,App,Jalisco,1989-06-07,Ok,35
+C0069,Sofía Hernández García,Casado,Asalariado,20100,2023-05-22,App,Querétaro,1966-12-22,Ok,56
+C0168,Regina Chávez Ramírez,Casado,Asalariado,23300,2023-05-30,App,Ciudad de México,1987-03-06,Ok,36
+C0905,Arturo Chávez Romero,Viudo,Jubilado,10400,2022-07-03,Sucursal,Yucatán,1963-05-08,Ok,59
+C0731,Carlos Medina Álvarez,Viudo,Hogar,6000,2015-03-17,Sucursal,Estado de México,1965-02-26,Ok,50
+C0555,Camila Vázquez Moreno,Divorciado,Independiente,25600,2019-01-22,Sucursal,Ciudad de México,1981-06-25,Ok,38
+C0367,José Ortiz Castillo,Soltero,Independiente,12600,2015-05-01,Sucursal,Jalisco,1985-11-15,Ok,29
+C0346,Itzel Castillo Rojas,Casado,Independiente,3500,2024-08-30,App,Estado de México,1988-10-02,Ok,36
+C0585,Rosa González Sánchez,Soltero,Independiente,16100,2023-11-30,App,Jalisco,1994-06-02,Ok,29
+C0536,Lucía Castro Herrera,Casado,Asalariado,12700,2014-09-09,Sucursal,Estado de México,1982-05-17,Ok,32
+C0399,María Castillo Juárez,Casado,Independiente,23900,2020-03-08,Sucursal,Estado de México,1983-04-26,Ok,37
+C0186,Emiliano Sánchez Ortiz,Soltero,Asalariado,32300,2025-05-27,App,Querétaro,1979-04-14,Ok,46
+C0349,Andrea Velázquez Cruz,Soltero,Estudiante,6100,2019-12-03,Sucursal,Quintana Roo,2000-07-13,Ok,19
+C0616,Andrea Mendoza Velázquez,Soltero,Asalariado,22300,2021-06-17,Sucursal,Estado de México,1973-01-17,Ok,48
+C0920,Ricardo Romero Moreno,Casado,Independiente,32600,2025-01-29,Sucursal,Jalisco,1979-04-09,Ok,46
+C0212,Diego Rodríguez Reyes,Casado,Independiente,19000,2022-01-02,App,Querétaro,1982-07-25,Ok,39
+C0580,Paola Velázquez Juárez,Divorciado,Estudiante,9200,2022-06-09,App,Nuevo León,1982-07-10,Ok,40
+C0503,Laura Domínguez Aguilar,Soltero,Independiente,9100,2020-08-13,App,Quintana Roo,1996-03-27,Ok,24
+C0538,Guadalupe García Rojas,Casado,Independiente,23100,2025-10-24,App,Querétaro,1983-02-09,Ok,43
+C0197,Francisco Reyes Hernández,Soltero,Asalariado,9900,2013-03-25,Sucursal,Estado de México,1987-11-12,Ok,25
+C0176,Leticia Rodríguez López,Casado,Asalariado,14900,2020-08-27,Sucursal,Jalisco,1974-09-03,Ok,46

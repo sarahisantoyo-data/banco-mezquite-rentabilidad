@@ -1,0 +1,7 @@
+﻿ProductoID,NombreProducto,TipoProducto,Familia,TasaAnual,Anualidad,CostoOperativoMensual
+P01,Cuenta de Débito,Captación,Cuenta,0.0025,0,18
+P02,Cuenta de Nómina,Captación,Cuenta,0,0,15
+P03,Tarjeta de Crédito Clásica,Crédito,Tarjeta,0.55,750,40
+P04,Tarjeta de Crédito Oro,Crédito,Tarjeta,0.42,1500,55
+P05,Préstamo Personal,Crédito,Préstamo,0.4,0,35
+P06,Inversión a Plazo,Captación,Inversión,,0,12

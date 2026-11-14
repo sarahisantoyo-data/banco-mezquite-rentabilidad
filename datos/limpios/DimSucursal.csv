@@ -1,0 +1,16 @@
+﻿SucursalID,NombreSucursal,Ciudad,Estado,Region,TipoSucursal
+S01,Polanco,Ciudad de México,Ciudad de México,Centro,Física
+S02,Coyoacán,Ciudad de México,Ciudad de México,Centro,Física
+S03,Naucalpan,Naucalpan,Estado de México,Centro,Física
+S04,Ecatepec,Ecatepec,Estado de México,Centro,Física
+S05,Toluca Centro,Toluca,Estado de México,Centro,Física
+S06,Guadalajara Chapultepec,Guadalajara,Jalisco,Occidente,Física
+S07,Zapopan Andares,Zapopan,Jalisco,Occidente,Física
+S08,Monterrey Centro,Monterrey,Nuevo León,Norte,Física
+S09,San Pedro Valle,San Pedro Garza García,Nuevo León,Norte,Física
+S10,Puebla Angelópolis,Puebla,Puebla,Centro,Física
+S11,Querétaro Juriquilla,Querétaro,Querétaro,Bajío,Física
+S12,León Campestre,León,Guanajuato,Bajío,Física
+S13,Mérida Altabrisa,Mérida,Yucatán,Sureste,Física
+S14,Cancún Centro,Cancún,Quintana Roo,Sureste,Física
+S15,Canal Digital,Digital,Digital,Digital,Digital
