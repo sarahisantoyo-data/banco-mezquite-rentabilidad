@@ -95,7 +95,9 @@ El archivo de Power BI (.pbix) está disponible a solicitud.
 ## Autora
  
 **Brenda Sarahi Santoyo Cordova**
+ 
 Analista de datos & Licenciada en Business Intelligence
+ 
 [LinkedIn](https://www.linkedin.com/in/TU-PERFIL)
  
 © 2026 Brenda Sarahi Santoyo Cordova. Todos los derechos reservados. Ver [LICENSE](LICENSE).
