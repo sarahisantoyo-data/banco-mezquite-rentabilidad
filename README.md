@@ -1,5 +1,7 @@
 # Banco Mezquite: rentabilidad por cliente 2024–2025
  
+[English version](README_EN.md)
+ 
 **Si el banco crece, ¿por qué no gana lo que debería?**
  
 En 2025 la utilidad de Banco Mezquite creció **13%**, pero el margen financiero creció **29%**. Este proyecto busca qué frena la utilidad y dónde está la palanca para recuperarla, analizando la rentabilidad de cada cliente, producto y canal.
@@ -98,6 +100,6 @@ El archivo de Power BI (.pbix) está disponible a solicitud.
  
 Analista de datos & Licenciada en Business Intelligence
  
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL)
+[LinkedIn](https://www.linkedin.com/in/brenda-sarahi-santoyo-cordova-5095101b2)
  
 © 2026 Brenda Sarahi Santoyo Cordova. Todos los derechos reservados. Ver [LICENSE](LICENSE).
